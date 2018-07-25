@@ -1,0 +1,29 @@
+<!--
+  Generated template for the Next2Page page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-content padding style="margin-top: 8px">
+  <div class="container">
+    <!-- <button ion-button small color="danger" class="abs top left" (click)="back()">
+      <ion-icon name="arrow-back"></ion-icon>
+    </button> -->
+    <div class="list-wrapper" [@flyInOut]="head_anim">
+      <div class="timeline-header" text-uppercase text-center>
+        <span>pembelajaran</span>
+      </div>
+      <!-- <div class="conference-center-line"></div> -->
+      <div class="list-con" *ngFor="let item of datas; let x = index" [@flyInOut]="animating">
+        <div class="timeline-circle" text-center>
+          <span>{{x+1}}</span>
+        </div>
+        <div text-capitalize class="box-con" [ngClass]="x%2==1?'left':'right'" (click)="itemClk(item.id_c)">
+          <span>{{item.root_title}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</ion-content>

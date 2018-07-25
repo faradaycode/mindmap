@@ -1,0 +1,35 @@
+<!--
+  Generated template for the ModklsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-content margin-top>
+  <div id="header" class="abs top left">
+    <button color="danger" ion-button small (click)="dismiss()">
+      <ion-icon name="md-close" showWhen="android,windows"></ion-icon>
+    </button>
+  </div>
+  <ion-grid style="margin-top: 30px;">
+    <ion-row>
+      <ion-col>
+        <div class="frame-div" (click)="goto(4)">
+          <span class="frame-title">kelas</span>
+          <span class="frame-subtitle">4</span>
+        </div>
+      </ion-col>
+      <ion-col>
+        <div class="frame-div" (click)="goto(5)">
+          <span class="frame-title">kelas</span>
+          <span class="frame-subtitle">5</span>
+        </div>
+      </ion-col>
+      <ion-col>
+        <div class="frame-div" (click)="goto(6)">
+          <span class="frame-title">kelas</span>
+          <span class="frame-subtitle">6</span>
+        </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

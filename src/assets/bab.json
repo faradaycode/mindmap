@@ -1,0 +1,446 @@
+[
+    {
+        "id_c": "1",
+        "id_m": "5",
+        "kls": "4",
+        "root_title": "makna pancasila"
+    },
+    {
+        "id_c": "2",
+        "id_m": "5",
+        "kls": "4",
+        "root_title": "kewajiban dan hak"
+    },
+    {
+        "id_c": "3",
+        "id_m": "5",
+        "kls": "4",
+        "root_title": "keberagaman"
+    },
+    {
+        "id_c": "4",
+        "id_m": "5",
+        "kls": "4",
+        "root_title": "keberagaman suku bangsa"
+    },
+    {
+        "id_c": "5",
+        "id_m": "5",
+        "kls": "5",
+        "root_title": "Nilai-nilai pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "id_c": "6",
+        "id_m": "5",
+        "kls": "5",
+        "root_title": "hak, kewajiban dan tanggung jawab"
+    },
+    {
+        "id_c": "7",
+        "id_m": "5",
+        "kls": "5",
+        "root_title": "keberagaman"
+    },
+    {
+        "id_c": "8",
+        "id_m": "5",
+        "kls": "5",
+        "root_title": "persatuan dan kesatuan"
+    },
+    {
+        "id_c": "9",
+        "id_m": "5",
+        "kls": "6",
+        "root_title": "Nilai-nilai pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "id_c": "10",
+        "id_m": "5",
+        "kls": "6",
+        "root_title": "hak, kewajiban dan tanggung jawab"
+    },
+    {
+        "id_c": "11",
+        "id_m": "5",
+        "kls": "6",
+        "root_title": "keberagaman"
+    },
+    {
+        "id_c": "12",
+        "id_m": "5",
+        "kls": "6",
+        "root_title": "persatuan dan kesatuan"
+    },
+    {
+        "id_c": "13",
+        "id_m": "4",
+        "kls": "4",
+        "root_title": "karakteristik ruang dan pemanfaatan SDA"
+    },
+    {
+        "id_c": "14",
+        "id_m": "4",
+        "kls": "4",
+        "root_title": "keberagaman sosial"
+    },
+    {
+        "id_c": "15",
+        "id_m": "4",
+        "kls": "4",
+        "root_title": "kegiatan ekonomi"
+    },
+    {
+        "id_c": "16",
+        "id_m": "4",
+        "kls": "4",
+        "root_title": "kerajaan hindu, buddha, dan islam di indonesia"
+    },
+    {
+        "id_c": "17",
+        "id_m": "4",
+        "kls": "5",
+        "root_title": "wilayah NKRI"
+    },
+    {
+        "id_c": "18",
+        "id_m": "4",
+        "kls": "5",
+        "root_title": "interaksi sosial"
+    },
+    {
+        "id_c": "19",
+        "id_m": "4",
+        "kls": "5",
+        "root_title": "kegiatan ekonomi"
+    },
+    {
+        "id_c": "20",
+        "id_m": "4",
+        "kls": "5",
+        "root_title": "kedatangan bangsa eropa di indonesia"
+    },
+    {
+        "id_c": "21",
+        "id_m": "4",
+        "kls": "6",
+        "root_title": "ASEAN"
+    },
+    {
+        "id_c": "22",
+        "id_m": "4",
+        "kls": "6",
+        "root_title": "perubahan sosial masyarakat indonesia"
+    },
+    {
+        "id_c": "23",
+        "id_m": "4",
+        "kls": "6",
+        "root_title": "kegiatan ekonomi"
+    },
+    {
+        "id_c": "24",
+        "id_m": "4",
+        "kls": "6",
+        "root_title": "makna proklamasi"
+    },
+    {
+        "id_c": "25",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "bentuk dan fungsi bagian tubuh hewan dan tumbuhan"
+    },
+    {
+        "id_c": "26",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "siklus hidup mahkluk hidup"
+    },
+    {
+        "id_c": "27",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "gaya dan gerak"
+    },
+    {
+        "id_c": "28",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "energi"
+    },
+    {
+        "id_c": "29",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "bunyi dan pendengaran"
+    },
+    {
+        "id_c": "30",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "cahaya dan penglihatan"
+    },
+    {
+        "id_c": "31",
+        "id_m": "3",
+        "kls": "4",
+        "root_title": "sumber daya alam"
+    },
+    {
+        "id_c": "32",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "alat gerak pada manusia dan hewan"
+    },
+    {
+        "id_c": "33",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "organ pernapasan pada manusia dan hewan"
+    },
+    {
+        "id_c": "34",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "organ pencernaan pada manusia dan hewan"
+    },
+    {
+        "id_c": "35",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "organ peredaran darah pada manusia dan hewan"
+    },
+    {
+        "id_c": "36",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "ekosistem pada jaring-jaring makanan"
+    },
+    {
+        "id_c": "37",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "kalor"
+    },
+    {
+        "id_c": "38",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "siklus air"
+    },
+    {
+        "id_c": "39",
+        "id_m": "3",
+        "kls": "5",
+        "root_title": "penggolongan materi"
+    },
+    {
+        "id_c": "40",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "perkembangbiakan tumbuhan dan hewan"
+    },
+    {
+        "id_c": "41",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "kesehatan reproduksi"
+    },
+    {
+        "id_c": "42",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "adaptasi mahkluk hidup dengan lingkungannya"
+    },
+    {
+        "id_c": "43",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "rangkaian listrik"
+    },
+    {
+        "id_c": "44",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "magnet"
+    },
+    {
+        "id_c": "45",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "energi listrik"
+    },
+    {
+        "id_c": "46",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "tata surya"
+    },
+    {
+        "id_c": "47",
+        "id_m": "3",
+        "kls": "6",
+        "root_title": "rotasi bumi"
+    },
+    {
+        "id_c": "48",
+        "id_m": "2",
+        "kls": "4",
+        "root_title": "gagasan pokok dan gagasan pendukung"
+    },
+    {
+        "id_c": "49",
+        "id_m": "2",
+        "kls": "4",
+        "root_title": "teks wawancara"
+    },
+    {
+        "id_c": "50",
+        "id_m": "2",
+        "kls": "4",
+        "root_title": "teks sastra dan teks puisi"
+    },
+    {
+        "id_c": "51",
+        "id_m": "2",
+        "kls": "4",
+        "root_title": "teks fiksi dan nonfiksi"
+    },
+    {
+        "id_c": "52",
+        "id_m": "2",
+        "kls": "5",
+        "root_title": "gagasan pokok"
+    },
+    {
+        "id_c": "53",
+        "id_m": "2",
+        "kls": "5",
+        "root_title": "teks eksplanasi"
+    },
+    {
+        "id_c": "54",
+        "id_m": "2",
+        "kls": "5",
+        "root_title": "teks narasi"
+    },
+    {
+        "id_c": "55",
+        "id_m": "2",
+        "kls": "5",
+        "root_title": "teks nonfiksi"
+    },
+    {
+        "id_c": "56",
+        "id_m": "2",
+        "kls": "5",
+        "root_title": "surat"
+    },
+    {
+        "id_c": "57",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks laporan hasil pengamatan"
+    },
+    {
+        "id_c": "58",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks penjelasan"
+    },
+    {
+        "id_c": "59",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks pidato"
+    },
+    {
+        "id_c": "60",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks narasi"
+    },
+    {
+        "id_c": "61",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks puisi dan prosa"
+    },
+    {
+        "id_c": "62",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks formulir"
+    },
+    {
+        "id_c": "63",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks nonfiksi"
+    },
+    {
+        "id_c": "64",
+        "id_m": "2",
+        "kls": "6",
+        "root_title": "teks fiksi"
+    },
+    {
+        "id_c": "65",
+        "id_m": "1",
+        "kls": "4",
+        "root_title": "bilangan"
+    },
+    {
+        "id_c": "66",
+        "id_m": "1",
+        "kls": "4",
+        "root_title": "geometri dan pengukuran"
+    },
+    {
+        "id_c": "67",
+        "id_m": "1",
+        "kls": "4",
+        "root_title": "statistik"
+    },
+    {
+        "id_c": "68",
+        "id_m": "1",
+        "kls": "5",
+        "root_title": "bilangan"
+    },
+    {
+        "id_c": "69",
+        "id_m": "1",
+        "kls": "5",
+        "root_title": "pengukuran"
+    },
+    {
+        "id_c": "70",
+        "id_m": "1",
+        "kls": "5",
+        "root_title": "geometri"
+    },
+    {
+        "id_c": "71",
+        "id_m": "1",
+        "kls": "5",
+        "root_title": "statistik"
+    },
+    {
+        "id_c": "72",
+        "id_m": "1",
+        "kls": "6",
+        "root_title": "operasi pada bilangan"
+    },
+    {
+        "id_c": "73",
+        "id_m": "1",
+        "kls": "6",
+        "root_title": "geometri"
+    },
+    {
+        "id_c": "74",
+        "id_m": "1",
+        "kls": "6",
+        "root_title": "statistika"
+    }
+]

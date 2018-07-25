@@ -1,14 +1,30 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-navbar>
-</ion-header>
-
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <div class="container">
+    <div class="wrapper" [@flyInOut]="fallen1">
+      <div class="app-info">
+        <div class="app-img">
+          <img class="img-responsive" src="assets/imgs/agenda.png" />
+        </div>
+        <div class="app-text">
+          <span class="names-big">peta konsep</span>
+          <span class="names-big">inti materi</span>
+          <span class="names-super abs top right">sd</span>
+        </div>
+      </div>
+    </div>
+    <ion-grid [@flyInOut]="fallen2">
+      <ion-row text-center>
+        <ion-col *ngFor="let item of datas">
+          <div text-wrap class="frame-div" (click)="openModal(item.id_m)">
+            <img class="img-responsive" src="assets/imgs/{{item.mapel}}.png" />
+            <div class="frame-text" text-capitalize>
+              <span class="btn-txt" *ngIf="item.mapel === 'bindo'">bahasa indonesia</span>
+              <span class="btn-txt" *ngIf="item.mapel === 'mtk'">matematika</span>
+              <span text-uppercase class="btn-txt" *ngIf="item.mapel !== 'bindo' && item.mapel !== 'mtk'">{{item.mapel}}</span>
+            </div>
+          </div>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
 </ion-content>
