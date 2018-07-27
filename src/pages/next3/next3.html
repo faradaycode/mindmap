@@ -11,16 +11,14 @@
       <ion-icon name="arrow-back"></ion-icon>
     </button> -->
     <div class="list-wrapper" [@flyInOut]="head_anim">
-        <div class="conference-center-line"></div>
-      <div class="timeline-header" text-uppercase text-center>
-        <span>pembelajaran</span>
+      <div class="timeline-header" text-uppercase>
+        <span>materi:</span>
+        <span>{{bab_name}}</span>
       </div>
       <div class="list-con" *ngFor="let item of datas; let x = index" [@flyInOut]="animating">
-        <div class="timeline-circle" text-center>
-          <span>{{x+1}}</span>
-        </div>
-        <div text-capitalize class="box-con" [ngClass]="x%2==1?'left':'right'" (click)="itemClk(item.id_c, item.root_title)">
-          <span>{{item.root_title}}</span>
+      <div class="left-line"></div>
+        <div text-capitalize class="box-con left" (click)="itemClk(item.hal,item.id_sb, item.subbab)">
+          <span>{{item.subbab}}</span>
         </div>
       </div>
     </div>

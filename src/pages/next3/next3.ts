@@ -6,7 +6,7 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
 
 
 /**
- * Generated class for the Next2Page page.
+ * Generated class for the next3Page page.
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
@@ -14,8 +14,8 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
 
 @IonicPage()
 @Component({
-  selector: 'page-next2',
-  templateUrl: 'next2.html',
+  selector: 'page-next3',
+  templateUrl: 'next3.html',
   animations: [
     trigger('flyInOut', [
       transition('* => anim-a', [
@@ -23,7 +23,7 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
         query('.left', style({ opacity: 0 }), { optional: true }),
         query('.left', stagger('500ms', [
           animate('1s ease-in', keyframes([
-            style({ opacity: 0, transform: 'translate3d(100px, 0, 0)', offset: 0.3 }),
+            style({ opacity: 0, transform: 'translate3d(-100px, 0, 0)', offset: 0.3 }),
             style({ opacity: 1, transform: 'translate3d(0, 0, 0)', offset: 1.0 }),
           ]))]), { optional: true }),
 
@@ -45,22 +45,24 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
     ])
   ]
 })
-export class Next2Page {
+export class Next3Page {
 
   datas: any = [];
   id_parent;
   kelas;
+  bab_name;
   animating = "";
   head_anim = "";
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private transit: NativePageTransitions,
     private serv: FungsiProvider) {
     this.id_parent = this.navParams.get("ID");
-    this.kelas = this.navParams.get("kls").toString();
+    this.bab_name = this.navParams.get("NAME");
+    // this.kelas = this.navParams.get("kls").toString();
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad Next2Page');
+    console.log('ionViewDidLoad next3Page');
   }
 
   ionViewWillLeave() {
@@ -75,10 +77,10 @@ export class Next2Page {
     this.animating = "anim-a";
     this.head_anim = "anim-b";
 
-    this.serv.jsonCall("assets/bab.json").subscribe(data => {
+    this.serv.jsonCall("assets/subbab.json").subscribe(data => {
       for (let i in data) {
-        if (data[i].id_m === this.id_parent) {
-          if (data[i].kls === this.kelas) {
+        if (data[i].id_c === this.id_parent) {
+          if (data[i].parent_id === null || data[i].parent_id === '0') {
             this.datas.push(data[i]);
           }
         }
@@ -86,11 +88,15 @@ export class Next2Page {
     });
   }
 
-  itemClk(id, name:String = null) {
-    this.navCtrl.push("Next3Page",{
-      ID: id,
-      NAME: name
-    });
+  itemClk(hal, id, parentName) {
+    if(hal !== null) {
+      this.serv.callAlert(hal);
+    } else {
+      this.navCtrl.push("Next4Page",{
+        ID: id,
+        parentName: parentName
+      });
+    }
   }
 
   back() {

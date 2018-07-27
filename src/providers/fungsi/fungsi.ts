@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { NativeTransitionOptions } from '@ionic-native/native-page-transitions';
-import { ToastController } from 'ionic-angular';
+import { ToastController, AlertController } from 'ionic-angular';
 
 /*
   Generated class for the FungsiProvider provider.
@@ -23,7 +23,7 @@ export class FungsiProvider {
     // fixedPixelsBottom: 60
   };
   
-  constructor(public http: HttpClient, private tos: ToastController) {
+  constructor(public http: HttpClient, private tos: ToastController, private alr: AlertController) {
     console.log('Hello FungsiProvider Provider');
   }
 
@@ -43,5 +43,15 @@ export class FungsiProvider {
     toa.present();
   }
   
+  //alert
+  callAlert(messages) {
+    let al = this.alr.create({
+      title: 'Hello',
+      subTitle: messages,
+      buttons: ['Okay']
+    });
+
+    al.present();
+  }
 
 }

@@ -6,7 +6,7 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
 
 
 /**
- * Generated class for the Next2Page page.
+ * Generated class for the next4Page page.
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
@@ -14,8 +14,8 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
 
 @IonicPage()
 @Component({
-  selector: 'page-next2',
-  templateUrl: 'next2.html',
+  selector: 'page-next4',
+  templateUrl: 'next4.html',
   animations: [
     trigger('flyInOut', [
       transition('* => anim-a', [
@@ -45,22 +45,24 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
     ])
   ]
 })
-export class Next2Page {
+export class Next4Page {
 
   datas: any = [];
   id_parent;
   kelas;
   animating = "";
   head_anim = "";
+  parentName;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private transit: NativePageTransitions,
     private serv: FungsiProvider) {
     this.id_parent = this.navParams.get("ID");
-    this.kelas = this.navParams.get("kls").toString();
+    this.parentName = this.navParams.get("parentName");
+    // this.kelas = this.navParams.get("kls").toString();
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad Next2Page');
+    console.log('ionViewDidLoad next4Page');
   }
 
   ionViewWillLeave() {
@@ -75,22 +77,21 @@ export class Next2Page {
     this.animating = "anim-a";
     this.head_anim = "anim-b";
 
-    this.serv.jsonCall("assets/bab.json").subscribe(data => {
+    this.serv.jsonCall("assets/subbab.json").subscribe(data => {
       for (let i in data) {
-        if (data[i].id_m === this.id_parent) {
-          if (data[i].kls === this.kelas) {
-            this.datas.push(data[i]);
-          }
+        if (data[i].parent_id === this.id_parent) {
+          this.datas.push(data[i]);
         }
       }
     });
   }
 
-  itemClk(id, name:String = null) {
-    this.navCtrl.push("Next3Page",{
-      ID: id,
-      NAME: name
-    });
+  itemClk(hal) {
+    if (hal !== null) {
+      this.serv.callAlert(hal);
+    } else {
+      this.serv.callToast("NEXT");
+    }
   }
 
   back() {

@@ -1,0 +1,3544 @@
+[
+    {
+        "hal": "179",
+        "id_c": "1",
+        "id_sb": "420",
+        "parent_id": null,
+        "subbab": "Makna lambang Pancasila"
+    },
+    {
+        "hal": "180",
+        "id_c": "1",
+        "id_sb": "421",
+        "parent_id": null,
+        "subbab": "Makna simbol sila-sila Pancasila"
+    },
+    {
+        "hal": null,
+        "id_c": "1",
+        "id_sb": "422",
+        "parent_id": "0",
+        "subbab": "Pengamalan Pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "183",
+        "id_c": "1",
+        "id_sb": "424",
+        "parent_id": null,
+        "subbab": "Butir-butir pengamalan  pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "183",
+        "id_c": "1",
+        "id_sb": "425",
+        "parent_id": null,
+        "subbab": "Diskusi"
+    },
+    {
+        "hal": "181",
+        "id_c": "1",
+        "id_sb": "426",
+        "parent_id": "422",
+        "subbab": "Penerapan pengamalan pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "182",
+        "id_c": "1",
+        "id_sb": "427",
+        "parent_id": "422",
+        "subbab": "Tabel makna, simbol dan pengamalan Pancasila dalam kehidupan sehari"
+    },
+    {
+        "hal": "189",
+        "id_c": "2",
+        "id_sb": "428",
+        "parent_id": null,
+        "subbab": "Pengertian kewajiban"
+    },
+    {
+        "hal": "190",
+        "id_c": "2",
+        "id_sb": "429",
+        "parent_id": null,
+        "subbab": "Pengertian hak"
+    },
+    {
+        "hal": "190",
+        "id_c": "2",
+        "id_sb": "430",
+        "parent_id": null,
+        "subbab": "Peraturan hak dan kewajiban"
+    },
+    {
+        "hal": "191",
+        "id_c": "2",
+        "id_sb": "431",
+        "parent_id": null,
+        "subbab": "Hak dan kewajiban sebagai warga negara"
+    },
+    {
+        "hal": "199",
+        "id_c": "3",
+        "id_sb": "432",
+        "parent_id": null,
+        "subbab": "Keberagaman umat beragama di Indonesia"
+    },
+    {
+        "hal": "200",
+        "id_c": "3",
+        "id_sb": "433",
+        "parent_id": null,
+        "subbab": "Toleransi antar umat beragama"
+    },
+    {
+        "hal": "201",
+        "id_c": "3",
+        "id_sb": "434",
+        "parent_id": null,
+        "subbab": "perilaku toleransi dalam umat beragama"
+    },
+    {
+        "hal": null,
+        "id_c": "4",
+        "id_sb": "435",
+        "parent_id": "0",
+        "subbab": "Keberagaman suku bangsa di Indonesia"
+    },
+    {
+        "hal": "208",
+        "id_c": "4",
+        "id_sb": "436",
+        "parent_id": null,
+        "subbab": "Keberagaman suku"
+    },
+    {
+        "hal": "208",
+        "id_c": "4",
+        "id_sb": "437",
+        "parent_id": null,
+        "subbab": "Keberagaman bahasa"
+    },
+    {
+        "hal": "208",
+        "id_c": "4",
+        "id_sb": "438",
+        "parent_id": null,
+        "subbab": "Keberagaman budaya"
+    },
+    {
+        "hal": "208",
+        "id_c": "4",
+        "id_sb": "439",
+        "parent_id": null,
+        "subbab": "Keberagaman religi"
+    },
+    {
+        "hal": null,
+        "id_c": "4",
+        "id_sb": "440",
+        "parent_id": "0",
+        "subbab": "Mengenal lebih dekat keberagaman suku bangsa di Indonesia"
+    },
+    {
+        "hal": "209",
+        "id_c": "4",
+        "id_sb": "441",
+        "parent_id": null,
+        "subbab": "Nama-nama suku di Indonesia"
+    },
+    {
+        "hal": "210",
+        "id_c": "4",
+        "id_sb": "442",
+        "parent_id": null,
+        "subbab": "Nama-nama bahasa daerah"
+    },
+    {
+        "hal": "211",
+        "id_c": "4",
+        "id_sb": "443",
+        "parent_id": null,
+        "subbab": "Nama-nama rumah adat"
+    },
+    {
+        "hal": "216",
+        "id_c": "4",
+        "id_sb": "444",
+        "parent_id": null,
+        "subbab": "Tarian, baju adat dan senjata tradisional"
+    },
+    {
+        "hal": "219",
+        "id_c": "4",
+        "id_sb": "445",
+        "parent_id": null,
+        "subbab": "Lagu dan alat musik daerah"
+    },
+    {
+        "hal": "413",
+        "id_c": "5",
+        "id_sb": "447",
+        "parent_id": null,
+        "subbab": "Sejarah perumusan Pancasila"
+    },
+    {
+        "hal": "415",
+        "id_c": "5",
+        "id_sb": "448",
+        "parent_id": null,
+        "subbab": "Kegiatan yang menunjukan nilai-nilai pancasila"
+    },
+    {
+        "hal": "416",
+        "id_c": "5",
+        "id_sb": "449",
+        "parent_id": null,
+        "subbab": "Nilai-nilai pancasila dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "423",
+        "id_c": "6",
+        "id_sb": "450",
+        "parent_id": null,
+        "subbab": "Hak, kewajiban dan tanggung jawab dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "424",
+        "id_c": "6",
+        "id_sb": "451",
+        "parent_id": null,
+        "subbab": "Pelaksanaan hak kewajiban dan tanggung jawab"
+    },
+    {
+        "hal": "431",
+        "id_c": "7",
+        "id_sb": "452",
+        "parent_id": null,
+        "subbab": "Pengertian Bhineka Tunggal Ika"
+    },
+    {
+        "hal": null,
+        "id_c": "7",
+        "id_sb": "453",
+        "parent_id": "0",
+        "subbab": "Kebinekaan bangsa Indonesia"
+    },
+    {
+        "hal": "431",
+        "id_c": "7",
+        "id_sb": "454",
+        "parent_id": "453",
+        "subbab": "Kebinekaan mata pencarian"
+    },
+    {
+        "hal": "431",
+        "id_c": "7",
+        "id_sb": "455",
+        "parent_id": "453",
+        "subbab": "Kebinekaan ras"
+    },
+    {
+        "hal": "432",
+        "id_c": "7",
+        "id_sb": "456",
+        "parent_id": "453",
+        "subbab": "Kebinekaan suku bangsa"
+    },
+    {
+        "hal": "432",
+        "id_c": "7",
+        "id_sb": "457",
+        "parent_id": "453",
+        "subbab": "Kebinekaan agama"
+    },
+    {
+        "hal": "432",
+        "id_c": "7",
+        "id_sb": "458",
+        "parent_id": "453",
+        "subbab": "Kebinekaan budaya"
+    },
+    {
+        "hal": null,
+        "id_c": "7",
+        "id_sb": "459",
+        "parent_id": "0",
+        "subbab": "Keberagaman sosial"
+    },
+    {
+        "hal": "433",
+        "id_c": "7",
+        "id_sb": "460",
+        "parent_id": "459",
+        "subbab": "Keberagaman suku bangsa"
+    },
+    {
+        "hal": "434",
+        "id_c": "7",
+        "id_sb": "461",
+        "parent_id": "459",
+        "subbab": "Keberagaman bahasa daerah"
+    },
+    {
+        "hal": null,
+        "id_c": "7",
+        "id_sb": "462",
+        "parent_id": "0",
+        "subbab": "Keberagaman budaya"
+    },
+    {
+        "hal": "435",
+        "id_c": "7",
+        "id_sb": "463",
+        "parent_id": "462",
+        "subbab": "Keberagaman rumah adat"
+    },
+    {
+        "hal": "437",
+        "id_c": "7",
+        "id_sb": "464",
+        "parent_id": "462",
+        "subbab": "Keberagaman pakaian adat, tarian, senjata tradisional"
+    },
+    {
+        "hal": "445",
+        "id_c": "7",
+        "id_sb": "465",
+        "parent_id": "462",
+        "subbab": "lagu dan alat musik daerah"
+    },
+    {
+        "hal": null,
+        "id_c": "8",
+        "id_sb": "467",
+        "parent_id": "0",
+        "subbab": "Arti penting persatuan dan kesatuan"
+    },
+    {
+        "hal": "449",
+        "id_c": "8",
+        "id_sb": "468",
+        "parent_id": "467",
+        "subbab": "Makna persatuan dan kesatuan"
+    },
+    {
+        "hal": "449",
+        "id_c": "8",
+        "id_sb": "469",
+        "parent_id": "467",
+        "subbab": "Prinsip persatuan dan kesatuan"
+    },
+    {
+        "hal": null,
+        "id_c": "8",
+        "id_sb": "470",
+        "parent_id": "0",
+        "subbab": "Manfaat persatuan dan kesatuan dalam bentukkerukunan bangsa Indonesia"
+    },
+    {
+        "hal": "450",
+        "id_c": "8",
+        "id_sb": "471",
+        "parent_id": "470",
+        "subbab": "Di lingkungan keluarga"
+    },
+    {
+        "hal": "450",
+        "id_c": "8",
+        "id_sb": "472",
+        "parent_id": "470",
+        "subbab": "Di lingkungan sekolah"
+    },
+    {
+        "hal": "451",
+        "id_c": "8",
+        "id_sb": "473",
+        "parent_id": "470",
+        "subbab": "Di lingkungancmasyarakat"
+    },
+    {
+        "hal": "451",
+        "id_c": "8",
+        "id_sb": "474",
+        "parent_id": "470",
+        "subbab": "persatuan dan kesatuan dalam kehidupan bernegara"
+    },
+    {
+        "hal": "451",
+        "id_c": "8",
+        "id_sb": "475",
+        "parent_id": null,
+        "subbab": "Persatuan dan kesatuan dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": "657",
+        "id_c": "9",
+        "id_sb": "476",
+        "parent_id": null,
+        "subbab": "penerapan nilai-nilai pancasila"
+    },
+    {
+        "hal": "658",
+        "id_c": "9",
+        "id_sb": "477",
+        "parent_id": null,
+        "subbab": "Mengidentifikasi penerapan nilai-nilai pancasila"
+    },
+    {
+        "hal": "665",
+        "id_c": "10",
+        "id_sb": "478",
+        "parent_id": null,
+        "subbab": "Pengertian hak dan kewajiban"
+    },
+    {
+        "hal": "663",
+        "id_c": "10",
+        "id_sb": "479",
+        "parent_id": null,
+        "subbab": "Dampak pelaksanaan hak, kewajiban dan tanggiung jawab"
+    },
+    {
+        "hal": null,
+        "id_c": "11",
+        "id_sb": "480",
+        "parent_id": "0",
+        "subbab": "Keberagaman sosial, budaya dan ekonomi"
+    },
+    {
+        "hal": "671",
+        "id_c": "11",
+        "id_sb": "481",
+        "parent_id": "480",
+        "subbab": "Keberagaman suku"
+    },
+    {
+        "hal": "673",
+        "id_c": "11",
+        "id_sb": "482",
+        "parent_id": "480",
+        "subbab": "Keberagaman budaya"
+    },
+    {
+        "hal": "681",
+        "id_c": "11",
+        "id_sb": "484",
+        "parent_id": "480",
+        "subbab": "keberagaman agama"
+    },
+    {
+        "hal": "681",
+        "id_c": "11",
+        "id_sb": "485",
+        "parent_id": "480",
+        "subbab": "keberagaman ekonomi"
+    },
+    {
+        "hal": "682",
+        "id_c": "11",
+        "id_sb": "486",
+        "parent_id": null,
+        "subbab": "Manfaat keberagaman"
+    },
+    {
+        "hal": "687",
+        "id_c": "12",
+        "id_sb": "487",
+        "parent_id": null,
+        "subbab": "Pengertian persatuan dan kesatuan"
+    },
+    {
+        "hal": "688",
+        "id_c": "12",
+        "id_sb": "488",
+        "parent_id": null,
+        "subbab": "Dampak terjadinya persatuan dan kesatuan"
+    },
+    {
+        "hal": null,
+        "id_c": "13",
+        "id_sb": "206",
+        "parent_id": "0",
+        "subbab": "Letak dan luas kabupaten/kota dan provinsi"
+    },
+    {
+        "hal": "89",
+        "id_c": "13",
+        "id_sb": "207",
+        "parent_id": "206",
+        "subbab": "Pengertian, letak dan luas peta"
+    },
+    {
+        "hal": "89",
+        "id_c": "13",
+        "id_sb": "208",
+        "parent_id": "206",
+        "subbab": "Fungsi peta"
+    },
+    {
+        "hal": "89",
+        "id_c": "13",
+        "id_sb": "209",
+        "parent_id": "206",
+        "subbab": "Unsur-unsur peta"
+    },
+    {
+        "hal": null,
+        "id_c": "13",
+        "id_sb": "210",
+        "parent_id": "0",
+        "subbab": "Membaca peta lingkungan setempat"
+    },
+    {
+        "hal": "90",
+        "id_c": "13",
+        "id_sb": "211",
+        "parent_id": "210",
+        "subbab": "langkah-langlah membaca peta"
+    },
+    {
+        "hal": "91",
+        "id_c": "13",
+        "id_sb": "212",
+        "parent_id": "210",
+        "subbab": "membaca peta kabupaten/kota bogor"
+    },
+    {
+        "hal": "92",
+        "id_c": "13",
+        "id_sb": "213",
+        "parent_id": "210",
+        "subbab": "Membaca peta provinsi Jawa Barat"
+    },
+    {
+        "hal": "92",
+        "id_c": "13",
+        "id_sb": "214",
+        "parent_id": "0",
+        "subbab": "Kondisi dan karakteristik alam"
+    },
+    {
+        "hal": "92",
+        "id_c": "13",
+        "id_sb": "215",
+        "parent_id": "214",
+        "subbab": "Iklim dan bentuk muka bumi"
+    },
+    {
+        "hal": "92",
+        "id_c": "13",
+        "id_sb": "216",
+        "parent_id": "214",
+        "subbab": "Flora dan fauna"
+    },
+    {
+        "hal": "94",
+        "id_c": "13",
+        "id_sb": "217",
+        "parent_id": null,
+        "subbab": "kegiatan ekonomi dalam pemanfaatan SDA"
+    },
+    {
+        "hal": null,
+        "id_c": "14",
+        "id_sb": "218",
+        "parent_id": "0",
+        "subbab": "Keragaman sosial budaya"
+    },
+    {
+        "hal": "101",
+        "id_c": "14",
+        "id_sb": "219",
+        "parent_id": "218",
+        "subbab": "Keragaman sosial"
+    },
+    {
+        "hal": "101",
+        "id_c": "14",
+        "id_sb": "220",
+        "parent_id": "218",
+        "subbab": "Keragaman budaya"
+    },
+    {
+        "hal": null,
+        "id_c": "14",
+        "id_sb": "221",
+        "parent_id": "0",
+        "subbab": "Keragaman ekonomi"
+    },
+    {
+        "hal": "101",
+        "id_c": "14",
+        "id_sb": "222",
+        "parent_id": "221",
+        "subbab": "Bidang pertambangan"
+    },
+    {
+        "hal": "101",
+        "id_c": "14",
+        "id_sb": "223",
+        "parent_id": "221",
+        "subbab": "Bidang industri"
+    },
+    {
+        "hal": "102",
+        "id_c": "14",
+        "id_sb": "224",
+        "parent_id": "221",
+        "subbab": "Bidang perdagangan"
+    },
+    {
+        "hal": "102",
+        "id_c": "14",
+        "id_sb": "225",
+        "parent_id": "221",
+        "subbab": "Bidang jasa"
+    },
+    {
+        "hal": "103",
+        "id_c": "14",
+        "id_sb": "226",
+        "parent_id": null,
+        "subbab": "Keragaman etnis"
+    },
+    {
+        "hal": "103",
+        "id_c": "14",
+        "id_sb": "227",
+        "parent_id": null,
+        "subbab": "Keragaman agama"
+    },
+    {
+        "hal": null,
+        "id_c": "15",
+        "id_sb": "228",
+        "parent_id": "0",
+        "subbab": "Ketersediaan sumber ekonomi"
+    },
+    {
+        "hal": "109",
+        "id_c": "15",
+        "id_sb": "229",
+        "parent_id": "228",
+        "subbab": "Sumber daya alam"
+    },
+    {
+        "hal": "109",
+        "id_c": "15",
+        "id_sb": "230",
+        "parent_id": "228",
+        "subbab": "Sumber daya manusia"
+    },
+    {
+        "hal": "109",
+        "id_c": "15",
+        "id_sb": "231",
+        "parent_id": "228",
+        "subbab": "Sumber daya modal"
+    },
+    {
+        "hal": null,
+        "id_c": "15",
+        "id_sb": "232",
+        "parent_id": "0",
+        "subbab": "Lembaga ekonomi"
+    },
+    {
+        "hal": "111",
+        "id_c": "15",
+        "id_sb": "233",
+        "parent_id": "232",
+        "subbab": "Fungsi lembaga ekonomi"
+    },
+    {
+        "hal": "111",
+        "id_c": "15",
+        "id_sb": "234",
+        "parent_id": "232",
+        "subbab": "Bentuk-bentuk lembaga ekonomi"
+    },
+    {
+        "hal": null,
+        "id_c": "15",
+        "id_sb": "235",
+        "parent_id": "0",
+        "subbab": "Perniagaan untuk meningkatkan kesejahtraan"
+    },
+    {
+        "hal": "113",
+        "id_c": "15",
+        "id_sb": "236",
+        "parent_id": "236",
+        "subbab": "Perdagangan antar daerah"
+    },
+    {
+        "hal": "113",
+        "id_c": "15",
+        "id_sb": "237",
+        "parent_id": "236",
+        "subbab": "Perdagangan luar negeri"
+    },
+    {
+        "hal": "113",
+        "id_c": "15",
+        "id_sb": "238",
+        "parent_id": "236",
+        "subbab": "Ekspor"
+    },
+    {
+        "hal": "113",
+        "id_c": "15",
+        "id_sb": "239",
+        "parent_id": "236",
+        "subbab": "Import"
+    },
+    {
+        "hal": "119",
+        "id_c": "16",
+        "id_sb": "240",
+        "parent_id": null,
+        "subbab": "Kerajaan Hindu"
+    },
+    {
+        "hal": "119",
+        "id_c": "16",
+        "id_sb": "241",
+        "parent_id": null,
+        "subbab": "Kerajaan Buddha"
+    },
+    {
+        "hal": "120",
+        "id_c": "16",
+        "id_sb": "242",
+        "parent_id": null,
+        "subbab": "Pengaruh Hindu-Buddha di Indonesia"
+    },
+    {
+        "hal": "121",
+        "id_c": "16",
+        "id_sb": "243",
+        "parent_id": null,
+        "subbab": "Kerajaan Islam"
+    },
+    {
+        "hal": null,
+        "id_c": "17",
+        "id_sb": "244",
+        "parent_id": "0",
+        "subbab": "Letak dan luas Indonesia dalam peta"
+    },
+    {
+        "hal": "323",
+        "id_c": "17",
+        "id_sb": "245",
+        "parent_id": "244",
+        "subbab": "Letak astranomis"
+    },
+    {
+        "hal": "323",
+        "id_c": "17",
+        "id_sb": "246",
+        "parent_id": "244",
+        "subbab": "Letak geografis"
+    },
+    {
+        "hal": "324",
+        "id_c": "17",
+        "id_sb": "247",
+        "parent_id": "244",
+        "subbab": "Letak geologis"
+    },
+    {
+        "hal": null,
+        "id_c": "17",
+        "id_sb": "248",
+        "parent_id": "0",
+        "subbab": "Kondisi alam wilayah"
+    },
+    {
+        "hal": "324",
+        "id_c": "17",
+        "id_sb": "249",
+        "parent_id": "248",
+        "subbab": "Keadaan iklim"
+    },
+    {
+        "hal": "325",
+        "id_c": "17",
+        "id_sb": "250",
+        "parent_id": "248",
+        "subbab": "Keadaan geologi"
+    },
+    {
+        "hal": "325",
+        "id_c": "17",
+        "id_sb": "251",
+        "parent_id": "248",
+        "subbab": "Bentuk muka bumi"
+    },
+    {
+        "hal": "325",
+        "id_c": "17",
+        "id_sb": "252",
+        "parent_id": "248",
+        "subbab": "Flora dan fauna"
+    },
+    {
+        "hal": null,
+        "id_c": "17",
+        "id_sb": "253",
+        "parent_id": "0",
+        "subbab": "Karakteristik kependudukan"
+    },
+    {
+        "hal": "327",
+        "id_c": "17",
+        "id_sb": "254",
+        "parent_id": "253",
+        "subbab": "jumlah kepadatan penduduk"
+    },
+    {
+        "hal": "327",
+        "id_c": "17",
+        "id_sb": "255",
+        "parent_id": "253",
+        "subbab": "persebaran dan pertumbuhan"
+    },
+    {
+        "hal": "328",
+        "id_c": "17",
+        "id_sb": "256",
+        "parent_id": null,
+        "subbab": "Pengaruh negara maritim dan agraris terhadap kehidupan kegiatan sosial,ekonomi, budaya dan transportasi"
+    },
+    {
+        "hal": null,
+        "id_c": "18",
+        "id_sb": "257",
+        "parent_id": "0",
+        "subbab": "Interaksi sosial budaya"
+    },
+    {
+        "hal": "333",
+        "id_c": "18",
+        "id_sb": "258",
+        "parent_id": "257",
+        "subbab": "Interaksi manusia dengan lingkungan"
+    },
+    {
+        "hal": "333",
+        "id_c": "18",
+        "id_sb": "259",
+        "parent_id": "257",
+        "subbab": "Interaksi manusia dengan lingkungan budaya"
+    },
+    {
+        "hal": "334",
+        "id_c": "18",
+        "id_sb": "260",
+        "parent_id": null,
+        "subbab": "Sosialisasi/ekulturasi"
+    },
+    {
+        "hal": "335",
+        "id_c": "18",
+        "id_sb": "261",
+        "parent_id": null,
+        "subbab": "Pembangunan sosial budaya"
+    },
+    {
+        "hal": "336",
+        "id_c": "18",
+        "id_sb": "262",
+        "parent_id": null,
+        "subbab": "Pembangunan ekonomi"
+    },
+    {
+        "hal": null,
+        "id_c": "19",
+        "id_sb": "263",
+        "parent_id": "0",
+        "subbab": "Kegiatan ekonomi masyarakat Indonesia"
+    },
+    {
+        "hal": "341",
+        "id_c": "19",
+        "id_sb": "264",
+        "parent_id": "263",
+        "subbab": "Pertanian"
+    },
+    {
+        "hal": "341",
+        "id_c": "19",
+        "id_sb": "265",
+        "parent_id": "263",
+        "subbab": "Peternakan"
+    },
+    {
+        "hal": "342",
+        "id_c": "19",
+        "id_sb": "266",
+        "parent_id": "263",
+        "subbab": "Perikanan"
+    },
+    {
+        "hal": "342",
+        "id_c": "19",
+        "id_sb": "267",
+        "parent_id": null,
+        "subbab": "Kegiatan ekonomi di bidang pertambangan dan industri"
+    },
+    {
+        "hal": null,
+        "id_c": "20",
+        "id_sb": "268",
+        "parent_id": "0",
+        "subbab": "Penjajahan bangsa Eropa di Indonesia"
+    },
+    {
+        "hal": "347",
+        "id_c": "20",
+        "id_sb": "269",
+        "parent_id": "268",
+        "subbab": "portugis"
+    },
+    {
+        "hal": "347",
+        "id_c": "20",
+        "id_sb": "270",
+        "parent_id": "268",
+        "subbab": "Spayol"
+    },
+    {
+        "hal": "348",
+        "id_c": "20",
+        "id_sb": "271",
+        "parent_id": "268",
+        "subbab": "Inggris"
+    },
+    {
+        "hal": "348",
+        "id_c": "20",
+        "id_sb": "272",
+        "parent_id": "268",
+        "subbab": "Belanda"
+    },
+    {
+        "hal": "350",
+        "id_c": "20",
+        "id_sb": "273",
+        "parent_id": null,
+        "subbab": "Perlawanan bangsa Indonesia terhadap penjajahan bangsa Eropa"
+    },
+    {
+        "hal": "353",
+        "id_c": "20",
+        "id_sb": "274",
+        "parent_id": null,
+        "subbab": "Organisasi gerakan Nasional"
+    },
+    {
+        "hal": "355",
+        "id_c": "20",
+        "id_sb": "275",
+        "parent_id": null,
+        "subbab": "Pendudukan militer Jepang di Indonesia"
+    },
+    {
+        "hal": "547",
+        "id_c": "21",
+        "id_sb": "276",
+        "parent_id": null,
+        "subbab": "Karakteristik geografis wilayah ASEAN"
+    },
+    {
+        "hal": "548",
+        "id_c": "21",
+        "id_sb": "277",
+        "parent_id": null,
+        "subbab": "Kondisi alam kawasan ASEAN"
+    },
+    {
+        "hal": "548",
+        "id_c": "21",
+        "id_sb": "278",
+        "parent_id": null,
+        "subbab": "Karakteristik kehidupan sosial wilayah ASEAN"
+    },
+    {
+        "hal": "554",
+        "id_c": "21",
+        "id_sb": "279",
+        "parent_id": null,
+        "subbab": "Negara-negara ASEAN"
+    },
+    {
+        "hal": "556",
+        "id_c": "21",
+        "id_sb": "280",
+        "parent_id": null,
+        "subbab": "Seputar kawasan asia tenggara (politik, ekonomi,sosial, dan budaya)"
+    },
+    {
+        "hal": "561",
+        "id_c": "22",
+        "id_sb": "281",
+        "parent_id": null,
+        "subbab": "perubahan sosial budaya"
+    },
+    {
+        "hal": "562",
+        "id_c": "22",
+        "id_sb": "282",
+        "parent_id": null,
+        "subbab": "Modernisasi bidang iptek, ekonomi dan demokrasi"
+    },
+    {
+        "hal": "563",
+        "id_c": "22",
+        "id_sb": "283",
+        "parent_id": null,
+        "subbab": "dampak perubahan sosial terhadap pola pikir"
+    },
+    {
+        "hal": "569",
+        "id_c": "23",
+        "id_sb": "284",
+        "parent_id": null,
+        "subbab": "kegiatan ekspor dan impor"
+    },
+    {
+        "hal": "569",
+        "id_c": "23",
+        "id_sb": "285",
+        "parent_id": null,
+        "subbab": "Kegiatan pengiriman/pertukaran tenaga kerja"
+    },
+    {
+        "hal": "569",
+        "id_c": "23",
+        "id_sb": "286",
+        "parent_id": null,
+        "subbab": "Kegiatan masyarakat ekonomi ASEAN (MEA)"
+    },
+    {
+        "hal": "575",
+        "id_c": "24",
+        "id_sb": "287",
+        "parent_id": null,
+        "subbab": "Seputar kemerdekaan"
+    },
+    {
+        "hal": "577",
+        "id_c": "24",
+        "id_sb": "288",
+        "parent_id": null,
+        "subbab": "Perjuangan mempertahankan kemedekaan"
+    },
+    {
+        "hal": "578",
+        "id_c": "24",
+        "id_sb": "289",
+        "parent_id": null,
+        "subbab": "Perjanjian Renville, Rum-Royen, Linggar jati, Konferensi meja bundar, dalam mempertahankan kemerdekaan"
+    },
+    {
+        "hal": "580",
+        "id_c": "24",
+        "id_sb": "290",
+        "parent_id": null,
+        "subbab": "Membangun kehidupan bangsa yang berdaulat"
+    },
+    {
+        "hal": "581",
+        "id_c": "24",
+        "id_sb": "291",
+        "parent_id": null,
+        "subbab": "Peran bangsa indoneia dalam membangun masyarakat internasional"
+    },
+    {
+        "hal": null,
+        "id_c": "25",
+        "id_sb": "292",
+        "parent_id": "0",
+        "subbab": "Bentuk dan fungsi bagian tubuh hewan"
+    },
+    {
+        "hal": "45",
+        "id_c": "25",
+        "id_sb": "293",
+        "parent_id": "292",
+        "subbab": "Herbivora"
+    },
+    {
+        "hal": "45",
+        "id_c": "25",
+        "id_sb": "294",
+        "parent_id": "292",
+        "subbab": "Karnivora"
+    },
+    {
+        "hal": "46",
+        "id_c": "25",
+        "id_sb": "295",
+        "parent_id": "292",
+        "subbab": "omnivora"
+    },
+    {
+        "hal": null,
+        "id_c": "25",
+        "id_sb": "296",
+        "parent_id": "0",
+        "subbab": "Bentuk dan fungsi bagian tubuh tumbuhan"
+    },
+    {
+        "hal": "46",
+        "id_c": "25",
+        "id_sb": "297",
+        "parent_id": "296",
+        "subbab": "Akar"
+    },
+    {
+        "hal": "47",
+        "id_c": "25",
+        "id_sb": "298",
+        "parent_id": "296",
+        "subbab": "Batang"
+    },
+    {
+        "hal": "48",
+        "id_c": "25",
+        "id_sb": "299",
+        "parent_id": "296",
+        "subbab": "Daun"
+    },
+    {
+        "hal": "49",
+        "id_c": "25",
+        "id_sb": "300",
+        "parent_id": "296",
+        "subbab": "Bunga"
+    },
+    {
+        "hal": "49",
+        "id_c": "25",
+        "id_sb": "301",
+        "parent_id": "296",
+        "subbab": "Daun dan biji"
+    },
+    {
+        "hal": null,
+        "id_c": "26",
+        "id_sb": "302",
+        "parent_id": "0",
+        "subbab": "Daur hidup dengan metamorfosis"
+    },
+    {
+        "hal": "53",
+        "id_c": "26",
+        "id_sb": "303",
+        "parent_id": "302",
+        "subbab": "Metamorfosis sempurna"
+    },
+    {
+        "hal": "53",
+        "id_c": "26",
+        "id_sb": "304",
+        "parent_id": "302",
+        "subbab": "Metamorfosis tidak sempurna"
+    },
+    {
+        "hal": "53",
+        "id_c": "26",
+        "id_sb": "305",
+        "parent_id": null,
+        "subbab": "Daur hidup tanpa metamorfosis"
+    },
+    {
+        "hal": "57",
+        "id_c": "27",
+        "id_sb": "306",
+        "parent_id": null,
+        "subbab": "Pengertian gaya dan gerak"
+    },
+    {
+        "hal": "57",
+        "id_c": "27",
+        "id_sb": "307",
+        "parent_id": null,
+        "subbab": "Pengaruh gaya pada gerak benda"
+    },
+    {
+        "hal": "57",
+        "id_c": "27",
+        "id_sb": "308",
+        "parent_id": null,
+        "subbab": "Pengaruh gaya pada bentuk benda"
+    },
+    {
+        "hal": "57",
+        "id_c": "27",
+        "id_sb": "309",
+        "parent_id": null,
+        "subbab": "Jenis-jenis gaya"
+    },
+    {
+        "hal": "58",
+        "id_c": "27",
+        "id_sb": "310",
+        "parent_id": null,
+        "subbab": "Faktor yang mempengaruhi gerak benda"
+    },
+    {
+        "hal": null,
+        "id_c": "28",
+        "id_sb": "311",
+        "parent_id": "0",
+        "subbab": "Sumber energi panas"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "312",
+        "parent_id": null,
+        "subbab": "panas matahari"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "313",
+        "parent_id": null,
+        "subbab": "Panas api"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "314",
+        "parent_id": null,
+        "subbab": "Panas akibat gesekan benda"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "315",
+        "parent_id": null,
+        "subbab": "Panas akibat listrik"
+    },
+    {
+        "hal": null,
+        "id_c": "28",
+        "id_sb": "316",
+        "parent_id": "0",
+        "subbab": "Perpindahan energi panas"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "317",
+        "parent_id": null,
+        "subbab": "Konduksi"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "318",
+        "parent_id": null,
+        "subbab": "Konveksi"
+    },
+    {
+        "hal": "63",
+        "id_c": "28",
+        "id_sb": "319",
+        "parent_id": null,
+        "subbab": "Radiasi"
+    },
+    {
+        "hal": null,
+        "id_c": "28",
+        "id_sb": "320",
+        "parent_id": "0",
+        "subbab": "Sumber energi alternatif"
+    },
+    {
+        "hal": "64",
+        "id_c": "28",
+        "id_sb": "321",
+        "parent_id": "320",
+        "subbab": "Energi matahari"
+    },
+    {
+        "hal": "64",
+        "id_c": "28",
+        "id_sb": "322",
+        "parent_id": "320",
+        "subbab": "Energi panas bumi"
+    },
+    {
+        "hal": "64",
+        "id_c": "28",
+        "id_sb": "323",
+        "parent_id": "320",
+        "subbab": "Energi angin"
+    },
+    {
+        "hal": "64",
+        "id_c": "28",
+        "id_sb": "324",
+        "parent_id": "320",
+        "subbab": "Energi air"
+    },
+    {
+        "hal": "64",
+        "id_c": "28",
+        "id_sb": "325",
+        "parent_id": "320",
+        "subbab": "energi nuklir"
+    },
+    {
+        "hal": "0",
+        "id_c": "29",
+        "id_sb": "326",
+        "parent_id": "0",
+        "subbab": "Bunyi"
+    },
+    {
+        "hal": "69",
+        "id_c": "29",
+        "id_sb": "327",
+        "parent_id": "326",
+        "subbab": "Sumber bunyi"
+    },
+    {
+        "hal": "69",
+        "id_c": "29",
+        "id_sb": "328",
+        "parent_id": "326",
+        "subbab": "Perambatan bunyi"
+    },
+    {
+        "hal": "69",
+        "id_c": "29",
+        "id_sb": "329",
+        "parent_id": "326",
+        "subbab": "Pemantulan dan penyerapan bunyi"
+    },
+    {
+        "hal": "69",
+        "id_c": "29",
+        "id_sb": "330",
+        "parent_id": "326",
+        "subbab": "Perubahan bunyi"
+    },
+    {
+        "hal": null,
+        "id_c": "29",
+        "id_sb": "331",
+        "parent_id": "0",
+        "subbab": "Pendengaran"
+    },
+    {
+        "hal": "70",
+        "id_c": "29",
+        "id_sb": "332",
+        "parent_id": "331",
+        "subbab": "Telinga"
+    },
+    {
+        "hal": "70",
+        "id_c": "29",
+        "id_sb": "333",
+        "parent_id": "331",
+        "subbab": "Bagian-bagian telinga dan fingsinya"
+    },
+    {
+        "hal": "71",
+        "id_c": "29",
+        "id_sb": "334",
+        "parent_id": "331",
+        "subbab": "merawat dan memelihara telinga"
+    },
+    {
+        "hal": "71",
+        "id_c": "29",
+        "id_sb": "335",
+        "parent_id": "331",
+        "subbab": "Kelainan pada telinga"
+    },
+    {
+        "hal": null,
+        "id_c": "30",
+        "id_sb": "336",
+        "parent_id": "0",
+        "subbab": "Cahaya"
+    },
+    {
+        "hal": null,
+        "id_c": "30",
+        "id_sb": "337",
+        "parent_id": "336",
+        "subbab": "Sifat-sifat cahaya"
+    },
+    {
+        "hal": "75",
+        "id_c": "30",
+        "id_sb": "338",
+        "parent_id": "337",
+        "subbab": "Dapat Merambat lurus"
+    },
+    {
+        "hal": "75",
+        "id_c": "30",
+        "id_sb": "339",
+        "parent_id": "0",
+        "subbab": "Penglihatan"
+    },
+    {
+        "hal": "75",
+        "id_c": "30",
+        "id_sb": "340",
+        "parent_id": "337",
+        "subbab": "Dapat dipantulkan"
+    },
+    {
+        "hal": "75",
+        "id_c": "30",
+        "id_sb": "341",
+        "parent_id": "338",
+        "subbab": "Indera penglihatan"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "342",
+        "parent_id": "337",
+        "subbab": "Dapat dibiaskan"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "343",
+        "parent_id": "341",
+        "subbab": "Kornea"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "344",
+        "parent_id": "341",
+        "subbab": "Iris"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "345",
+        "parent_id": "338",
+        "subbab": "Dapat diuraikan"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "346",
+        "parent_id": "341",
+        "subbab": "Pupil"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "347",
+        "parent_id": "341",
+        "subbab": "Lensa"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "348",
+        "parent_id": "341",
+        "subbab": "Retina"
+    },
+    {
+        "hal": "76",
+        "id_c": "30",
+        "id_sb": "349",
+        "parent_id": "339",
+        "subbab": "Gangguan pada indera penglihatan"
+    },
+    {
+        "hal": "77",
+        "id_c": "30",
+        "id_sb": "350",
+        "parent_id": "339",
+        "subbab": "Cara menjaga indera penglihatan"
+    },
+    {
+        "hal": "77",
+        "id_c": "30",
+        "id_sb": "351",
+        "parent_id": null,
+        "subbab": "Pemanfaatan sumber cahaya"
+    },
+    {
+        "hal": null,
+        "id_c": "31",
+        "id_sb": "489",
+        "parent_id": "0",
+        "subbab": "Sumber daya alam dan lingkungan"
+    },
+    {
+        "hal": "81",
+        "id_c": "31",
+        "id_sb": "490",
+        "parent_id": "489",
+        "subbab": "yang dapat diperbaharui"
+    },
+    {
+        "hal": "81",
+        "id_c": "31",
+        "id_sb": "491",
+        "parent_id": "489",
+        "subbab": "yang tidak dapat diperbaharui"
+    },
+    {
+        "hal": "81",
+        "id_c": "31",
+        "id_sb": "492",
+        "parent_id": null,
+        "subbab": "Hubungan sumber daya alam dengan lingkungan"
+    },
+    {
+        "hal": "82",
+        "id_c": "31",
+        "id_sb": "493",
+        "parent_id": null,
+        "subbab": "Sumber daya alam dan kelestarian lingkungan"
+    },
+    {
+        "hal": "271",
+        "id_c": "32",
+        "id_sb": "495",
+        "parent_id": "494",
+        "subbab": "Rangka manusia"
+    },
+    {
+        "hal": null,
+        "id_c": "32",
+        "id_sb": "494",
+        "parent_id": "0",
+        "subbab": "Alat gerak pada manusia"
+    },
+    {
+        "hal": null,
+        "id_c": "32",
+        "id_sb": "496",
+        "parent_id": "495",
+        "subbab": "Rangka kepala"
+    },
+    {
+        "hal": null,
+        "id_c": "32",
+        "id_sb": "497",
+        "parent_id": "495",
+        "subbab": "Rangka badan"
+    },
+    {
+        "hal": "271",
+        "id_c": "32",
+        "id_sb": "498",
+        "parent_id": "495",
+        "subbab": "Rangka anggota gerak"
+    },
+    {
+        "hal": "271",
+        "id_c": "32",
+        "id_sb": "499",
+        "parent_id": "494",
+        "subbab": "Sendi"
+    },
+    {
+        "hal": "271",
+        "id_c": "32",
+        "id_sb": "500",
+        "parent_id": "494",
+        "subbab": "Fungsi rangka pada manusia"
+    },
+    {
+        "hal": "272",
+        "id_c": "32",
+        "id_sb": "501",
+        "parent_id": "494",
+        "subbab": "Cara merawat rangka"
+    },
+    {
+        "hal": "272",
+        "id_c": "32",
+        "id_sb": "502",
+        "parent_id": "0",
+        "subbab": "Alat gerak pada hewan"
+    },
+    {
+        "hal": "273",
+        "id_c": "32",
+        "id_sb": "503",
+        "parent_id": "502",
+        "subbab": "Rangka hewan"
+    },
+    {
+        "hal": null,
+        "id_c": "32",
+        "id_sb": "504",
+        "parent_id": "0",
+        "subbab": "Organ pernapasan pada manusia"
+    },
+    {
+        "hal": "273",
+        "id_c": "32",
+        "id_sb": "505",
+        "parent_id": "504",
+        "subbab": "Proses pernapasan pada manusia"
+    },
+    {
+        "hal": null,
+        "id_c": "33",
+        "id_sb": "506",
+        "parent_id": "505",
+        "subbab": "Hidung"
+    },
+    {
+        "hal": null,
+        "id_c": "33",
+        "id_sb": "507",
+        "parent_id": "505",
+        "subbab": "tenggorokan"
+    },
+    {
+        "hal": "279",
+        "id_c": "33",
+        "id_sb": "508",
+        "parent_id": "505",
+        "subbab": "Paru-paru"
+    },
+    {
+        "hal": "279",
+        "id_c": "33",
+        "id_sb": "509",
+        "parent_id": "504",
+        "subbab": "gangguan/penyakit pada alat pernapasan"
+    },
+    {
+        "hal": "279",
+        "id_c": "33",
+        "id_sb": "510",
+        "parent_id": null,
+        "subbab": "Organ pernapasan pada hewan"
+    },
+    {
+        "hal": "285",
+        "id_c": "34",
+        "id_sb": "352",
+        "parent_id": null,
+        "subbab": "Organ pencernaan pada manusia"
+    },
+    {
+        "hal": "287",
+        "id_c": "34",
+        "id_sb": "353",
+        "parent_id": null,
+        "subbab": "Beberapa penyakit yang menyerang organ pencernaan"
+    },
+    {
+        "hal": "288",
+        "id_c": "34",
+        "id_sb": "354",
+        "parent_id": null,
+        "subbab": "Beberapa organ pencernaan pada hewan"
+    },
+    {
+        "hal": "293",
+        "id_c": "35",
+        "id_sb": "355",
+        "parent_id": null,
+        "subbab": "Peredaran darah pada manusia"
+    },
+    {
+        "hal": "294",
+        "id_c": "35",
+        "id_sb": "356",
+        "parent_id": null,
+        "subbab": "Gangguan/penyakit tang menyerang alat peredaran darah manusia"
+    },
+    {
+        "hal": null,
+        "id_c": "35",
+        "id_sb": "357",
+        "parent_id": "0",
+        "subbab": "peredaran darah pada hewan"
+    },
+    {
+        "hal": "295",
+        "id_c": "35",
+        "id_sb": "358",
+        "parent_id": "357",
+        "subbab": "Peredaran darah terbuka"
+    },
+    {
+        "hal": "295",
+        "id_c": "35",
+        "id_sb": "359",
+        "parent_id": "357",
+        "subbab": "peredaran darah tertutup"
+    },
+    {
+        "hal": "301",
+        "id_c": "36",
+        "id_sb": "360",
+        "parent_id": null,
+        "subbab": "Ekosistem"
+    },
+    {
+        "hal": "301",
+        "id_c": "36",
+        "id_sb": "361",
+        "parent_id": null,
+        "subbab": "Jaring-jaring makanan"
+    },
+    {
+        "hal": "307",
+        "id_c": "37",
+        "id_sb": "362",
+        "parent_id": null,
+        "subbab": "Perpindahan kalor"
+    },
+    {
+        "hal": "307",
+        "id_c": "37",
+        "id_sb": "363",
+        "parent_id": null,
+        "subbab": "Pengaruh kalor terhadap perubahan suhu dan wujud benda"
+    },
+    {
+        "hal": "311",
+        "id_c": "38",
+        "id_sb": "364",
+        "parent_id": null,
+        "subbab": "Peroses terjadinya daur air"
+    },
+    {
+        "hal": "311",
+        "id_c": "38",
+        "id_sb": "365",
+        "parent_id": null,
+        "subbab": "gangguan pada daur air"
+    },
+    {
+        "hal": "317",
+        "id_c": "39",
+        "id_sb": "366",
+        "parent_id": null,
+        "subbab": "Materi"
+    },
+    {
+        "hal": "317",
+        "id_c": "39",
+        "id_sb": "367",
+        "parent_id": null,
+        "subbab": "zat tunggal"
+    },
+    {
+        "hal": "317",
+        "id_c": "39",
+        "id_sb": "368",
+        "parent_id": null,
+        "subbab": "campuran"
+    },
+    {
+        "hal": "317",
+        "id_c": "39",
+        "id_sb": "369",
+        "parent_id": null,
+        "subbab": "Komponen materi berdasarkan komponen penyusunnya"
+    },
+    {
+        "hal": null,
+        "id_c": "40",
+        "id_sb": "370",
+        "parent_id": "0",
+        "subbab": "Perkembangbiakan tumbuhan"
+    },
+    {
+        "hal": "495",
+        "id_c": "40",
+        "id_sb": "371",
+        "parent_id": "370",
+        "subbab": "Generatif"
+    },
+    {
+        "hal": "496",
+        "id_c": "40",
+        "id_sb": "372",
+        "parent_id": "370",
+        "subbab": "Vegetatif"
+    },
+    {
+        "hal": null,
+        "id_c": "40",
+        "id_sb": "373",
+        "parent_id": "0",
+        "subbab": "Perkembangbiakan pada hewan"
+    },
+    {
+        "hal": "497",
+        "id_c": "40",
+        "id_sb": "374",
+        "parent_id": "373",
+        "subbab": "Vegetatif"
+    },
+    {
+        "hal": "498",
+        "id_c": "40",
+        "id_sb": "375",
+        "parent_id": "373",
+        "subbab": "Generatif"
+    },
+    {
+        "hal": "503",
+        "id_c": "41",
+        "id_sb": "376",
+        "parent_id": null,
+        "subbab": "ciri pubertas"
+    },
+    {
+        "hal": "504",
+        "id_c": "41",
+        "id_sb": "377",
+        "parent_id": null,
+        "subbab": "menjaga kesehatan reproduksi"
+    },
+    {
+        "hal": "509",
+        "id_c": "42",
+        "id_sb": "378",
+        "parent_id": null,
+        "subbab": "Adaptasi"
+    },
+    {
+        "hal": null,
+        "id_c": "42",
+        "id_sb": "379",
+        "parent_id": "0",
+        "subbab": "Macam-macam adaptasi"
+    },
+    {
+        "hal": "509",
+        "id_c": "42",
+        "id_sb": "380",
+        "parent_id": "379",
+        "subbab": "Morfologi"
+    },
+    {
+        "hal": "509",
+        "id_c": "42",
+        "id_sb": "381",
+        "parent_id": "379",
+        "subbab": "fisiologi"
+    },
+    {
+        "hal": "509",
+        "id_c": "42",
+        "id_sb": "382",
+        "parent_id": "379",
+        "subbab": "tingkah laku"
+    },
+    {
+        "hal": "509",
+        "id_c": "42",
+        "id_sb": "383",
+        "parent_id": null,
+        "subbab": "penyesuaian diri hewan dengan lingkungannya"
+    },
+    {
+        "hal": "510",
+        "id_c": "42",
+        "id_sb": "384",
+        "parent_id": null,
+        "subbab": "Penyesuaian diri tumbuhan dengan lingkungannya"
+    },
+    {
+        "hal": "127",
+        "id_c": "48",
+        "id_sb": "1",
+        "parent_id": null,
+        "subbab": "menentukan gagasan pokok dan gagasan pendukung"
+    },
+    {
+        "hal": null,
+        "id_c": "48",
+        "id_sb": "2",
+        "parent_id": "0",
+        "subbab": "menunjukkan gagasan pokok dan gagasan pendukung"
+    },
+    {
+        "hal": "127",
+        "id_c": "48",
+        "id_sb": "3",
+        "parent_id": "2",
+        "subbab": "gagasan di awal paragraf"
+    },
+    {
+        "hal": "128",
+        "id_c": "48",
+        "id_sb": "4",
+        "parent_id": "2",
+        "subbab": "gagasan di akhir paragraf"
+    },
+    {
+        "hal": "128",
+        "id_c": "48",
+        "id_sb": "5",
+        "parent_id": "2",
+        "subbab": "gagasan di awal dan di akhir paragraf"
+    },
+    {
+        "hal": "128",
+        "id_c": "48",
+        "id_sb": "6",
+        "parent_id": "2",
+        "subbab": "menentukan hubungan antara gagasan pokok dan gagasan pendukung"
+    },
+    {
+        "hal": "129",
+        "id_c": "48",
+        "id_sb": "7",
+        "parent_id": "6",
+        "subbab": "Langkah-langkah membuat paragraf"
+    },
+    {
+        "hal": "129",
+        "id_c": "48",
+        "id_sb": "8",
+        "parent_id": "6",
+        "subbab": "Ciri-ciri menyusun paragraf yang baik"
+    },
+    {
+        "hal": "129",
+        "id_c": "48",
+        "id_sb": "9",
+        "parent_id": "6",
+        "subbab": "mengembangkan paragraf"
+    },
+    {
+        "hal": "515",
+        "id_c": "48",
+        "id_sb": "385",
+        "parent_id": null,
+        "subbab": "Komponen listrik"
+    },
+    {
+        "hal": null,
+        "id_c": "48",
+        "id_sb": "386",
+        "parent_id": "0",
+        "subbab": "Rangkaian listrik"
+    },
+    {
+        "hal": "515",
+        "id_c": "48",
+        "id_sb": "387",
+        "parent_id": "386",
+        "subbab": "Rangkaian seri"
+    },
+    {
+        "hal": "516",
+        "id_c": "48",
+        "id_sb": "388",
+        "parent_id": "386",
+        "subbab": "Rangkaian pararel"
+    },
+    {
+        "hal": "137",
+        "id_c": "49",
+        "id_sb": "10",
+        "parent_id": null,
+        "subbab": "pengertian wawancara"
+    },
+    {
+        "hal": "137",
+        "id_c": "49",
+        "id_sb": "11",
+        "parent_id": null,
+        "subbab": "langkah-langkah sebelum wawancara"
+    },
+    {
+        "hal": "137",
+        "id_c": "49",
+        "id_sb": "12",
+        "parent_id": null,
+        "subbab": "kata serta kalimat tanya dalam wawancara"
+    },
+    {
+        "hal": "138",
+        "id_c": "49",
+        "id_sb": "13",
+        "parent_id": null,
+        "subbab": "contoh teks wawancara"
+    },
+    {
+        "hal": "140",
+        "id_c": "49",
+        "id_sb": "14",
+        "parent_id": null,
+        "subbab": "teks petunjuk penggunaan alat"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "389",
+        "parent_id": null,
+        "subbab": "pengertian magnet"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "390",
+        "parent_id": "0",
+        "subbab": "Sifat-sifat magnet"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "391",
+        "parent_id": "390",
+        "subbab": "Dapat menarik benda"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "392",
+        "parent_id": "390",
+        "subbab": "Medan magnet membentuk gaya magnet"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "393",
+        "parent_id": "390",
+        "subbab": "Memiliki dua kutub"
+    },
+    {
+        "hal": "521",
+        "id_c": "49",
+        "id_sb": "394",
+        "parent_id": "390",
+        "subbab": "Saling menolak dan tarik-menarik"
+    },
+    {
+        "hal": null,
+        "id_c": "49",
+        "id_sb": "395",
+        "parent_id": "0",
+        "subbab": "Jenis magnet"
+    },
+    {
+        "hal": "522",
+        "id_c": "49",
+        "id_sb": "396",
+        "parent_id": "395",
+        "subbab": "Magnet alam"
+    },
+    {
+        "hal": "522",
+        "id_c": "49",
+        "id_sb": "397",
+        "parent_id": "395",
+        "subbab": "Magnet buatan"
+    },
+    {
+        "hal": "522",
+        "id_c": "49",
+        "id_sb": "398",
+        "parent_id": null,
+        "subbab": "Magnet dalam kehidupan sehari-hari"
+    },
+    {
+        "hal": null,
+        "id_c": "50",
+        "id_sb": "15",
+        "parent_id": "0",
+        "subbab": "sastra"
+    },
+    {
+        "hal": "149",
+        "id_c": "50",
+        "id_sb": "16",
+        "parent_id": "15",
+        "subbab": "pengertian sastra"
+    },
+    {
+        "hal": "149",
+        "id_c": "50",
+        "id_sb": "17",
+        "parent_id": "15",
+        "subbab": "Unsur-unsur karya sastra"
+    },
+    {
+        "hal": "149",
+        "id_c": "50",
+        "id_sb": "18",
+        "parent_id": "15",
+        "subbab": "Macam-macam karya sastra"
+    },
+    {
+        "hal": "150",
+        "id_c": "50",
+        "id_sb": "19",
+        "parent_id": "15",
+        "subbab": "contoh karya sastra"
+    },
+    {
+        "hal": "152",
+        "id_c": "50",
+        "id_sb": "20",
+        "parent_id": "0",
+        "subbab": "puisi"
+    },
+    {
+        "hal": "152",
+        "id_c": "50",
+        "id_sb": "21",
+        "parent_id": "20",
+        "subbab": "pengertian puisi"
+    },
+    {
+        "hal": "153",
+        "id_c": "50",
+        "id_sb": "22",
+        "parent_id": "20",
+        "subbab": "contoh puisi"
+    },
+    {
+        "hal": "153",
+        "id_c": "50",
+        "id_sb": "23",
+        "parent_id": "20",
+        "subbab": "langkah-langkah menulis puisi"
+    },
+    {
+        "hal": "154",
+        "id_c": "50",
+        "id_sb": "24",
+        "parent_id": "20",
+        "subbab": "Hal-hal yang harus diperhatikan dalam membaca puisi"
+    },
+    {
+        "hal": "527",
+        "id_c": "50",
+        "id_sb": "399",
+        "parent_id": null,
+        "subbab": "Energi listrik"
+    },
+    {
+        "hal": "527",
+        "id_c": "50",
+        "id_sb": "400",
+        "parent_id": null,
+        "subbab": "Arus listrik"
+    },
+    {
+        "hal": "527",
+        "id_c": "50",
+        "id_sb": "401",
+        "parent_id": null,
+        "subbab": "Konduksi dan isolator"
+    },
+    {
+        "hal": "527",
+        "id_c": "50",
+        "id_sb": "402",
+        "parent_id": null,
+        "subbab": "Energi alternatif"
+    },
+    {
+        "hal": "528",
+        "id_c": "50",
+        "id_sb": "403",
+        "parent_id": null,
+        "subbab": "Sumber energi listrik"
+    },
+    {
+        "hal": "528",
+        "id_c": "50",
+        "id_sb": "404",
+        "parent_id": null,
+        "subbab": "Pemanfaatan energi listrik"
+    },
+    {
+        "hal": "528",
+        "id_c": "50",
+        "id_sb": "405",
+        "parent_id": null,
+        "subbab": "Bahaya energi listrik"
+    },
+    {
+        "hal": "528",
+        "id_c": "50",
+        "id_sb": "406",
+        "parent_id": null,
+        "subbab": "Menghemat listrik"
+    },
+    {
+        "hal": null,
+        "id_c": "51",
+        "id_sb": "25",
+        "parent_id": "0",
+        "subbab": "teks nonfiksi"
+    },
+    {
+        "hal": "161",
+        "id_c": "51",
+        "id_sb": "26",
+        "parent_id": "25",
+        "subbab": "pengertian teks nonfiksi"
+    },
+    {
+        "hal": "161",
+        "id_c": "51",
+        "id_sb": "27",
+        "parent_id": "25",
+        "subbab": "contoh teks nonfiksi"
+    },
+    {
+        "hal": "162",
+        "id_c": "51",
+        "id_sb": "28",
+        "parent_id": "25",
+        "subbab": "langkah-langkah membuat teks nonfiksi"
+    },
+    {
+        "hal": "163",
+        "id_c": "51",
+        "id_sb": "29",
+        "parent_id": "25",
+        "subbab": "membandingkan teks nonfiksi"
+    },
+    {
+        "hal": null,
+        "id_c": "51",
+        "id_sb": "30",
+        "parent_id": "0",
+        "subbab": "teks fiksi"
+    },
+    {
+        "hal": "164",
+        "id_c": "51",
+        "id_sb": "31",
+        "parent_id": "30",
+        "subbab": "struktur cerita fiksi"
+    },
+    {
+        "hal": "164",
+        "id_c": "51",
+        "id_sb": "32",
+        "parent_id": "30",
+        "subbab": "unsur-unsur cerita fiksi"
+    },
+    {
+        "hal": "164",
+        "id_c": "51",
+        "id_sb": "33",
+        "parent_id": "30",
+        "subbab": "contoh cerita fiksi"
+    },
+    {
+        "hal": "165",
+        "id_c": "51",
+        "id_sb": "34",
+        "parent_id": "30",
+        "subbab": "watak tokoh pada teks fiksi"
+    },
+    {
+        "hal": "533",
+        "id_c": "51",
+        "id_sb": "407",
+        "parent_id": null,
+        "subbab": "Sistem tata surya"
+    },
+    {
+        "hal": "533",
+        "id_c": "51",
+        "id_sb": "408",
+        "parent_id": null,
+        "subbab": "Pusat tata surya"
+    },
+    {
+        "hal": "533",
+        "id_c": "51",
+        "id_sb": "409",
+        "parent_id": null,
+        "subbab": "Planet"
+    },
+    {
+        "hal": "534",
+        "id_c": "51",
+        "id_sb": "410",
+        "parent_id": null,
+        "subbab": "benda-benda langit"
+    },
+    {
+        "hal": null,
+        "id_c": "52",
+        "id_sb": "35",
+        "parent_id": "0",
+        "subbab": "mentukan pokok pikiran dalam membuat sebuah teks"
+    },
+    {
+        "hal": "365",
+        "id_c": "52",
+        "id_sb": "36",
+        "parent_id": "35",
+        "subbab": "pengertian mengenai pokok pikiran"
+    },
+    {
+        "hal": "365",
+        "id_c": "52",
+        "id_sb": "37",
+        "parent_id": "35",
+        "subbab": "menemukan pokok pikiran dalam teks"
+    },
+    {
+        "hal": "365",
+        "id_c": "52",
+        "id_sb": "38",
+        "parent_id": "35",
+        "subbab": "menyajikan pokok pikiran dalam teks"
+    },
+    {
+        "hal": null,
+        "id_c": "52",
+        "id_sb": "39",
+        "parent_id": "0",
+        "subbab": "kata tanya"
+    },
+    {
+        "hal": "367",
+        "id_c": "52",
+        "id_sb": "40",
+        "parent_id": "39",
+        "subbab": "pengertian dan jenis-jenis kata tanya"
+    },
+    {
+        "hal": "367",
+        "id_c": "52",
+        "id_sb": "41",
+        "parent_id": "39",
+        "subbab": "Jenis-jenis kata tanya"
+    },
+    {
+        "hal": "368",
+        "id_c": "52",
+        "id_sb": "42",
+        "parent_id": "39",
+        "subbab": "contoh kata tanya dalam kalimat"
+    },
+    {
+        "hal": null,
+        "id_c": "52",
+        "id_sb": "411",
+        "parent_id": "0",
+        "subbab": "Gerakan bumi"
+    },
+    {
+        "hal": "539",
+        "id_c": "52",
+        "id_sb": "412",
+        "parent_id": "411",
+        "subbab": "Rotasi bumi"
+    },
+    {
+        "hal": "5339",
+        "id_c": "52",
+        "id_sb": "413",
+        "parent_id": "411",
+        "subbab": "Revolusi bumi"
+    },
+    {
+        "hal": null,
+        "id_c": "52",
+        "id_sb": "414",
+        "parent_id": "0",
+        "subbab": "Gerakan bulan"
+    },
+    {
+        "hal": "540",
+        "id_c": "52",
+        "id_sb": "415",
+        "parent_id": "414",
+        "subbab": "Rotasi bulan"
+    },
+    {
+        "hal": "540",
+        "id_c": "52",
+        "id_sb": "416",
+        "parent_id": "414",
+        "subbab": "Revolusi bulan"
+    },
+    {
+        "hal": null,
+        "id_c": "52",
+        "id_sb": "417",
+        "parent_id": "0",
+        "subbab": "pengaruh bumi dan bulan"
+    },
+    {
+        "hal": "540",
+        "id_c": "52",
+        "id_sb": "418",
+        "parent_id": "417",
+        "subbab": "Gerhana bulan"
+    },
+    {
+        "hal": "540",
+        "id_c": "52",
+        "id_sb": "419",
+        "parent_id": "417",
+        "subbab": "Gerhana matahari"
+    },
+    {
+        "hal": "375",
+        "id_c": "53",
+        "id_sb": "43",
+        "parent_id": "0",
+        "subbab": "pengertian teks eksplanasi"
+    },
+    {
+        "hal": "375",
+        "id_c": "53",
+        "id_sb": "44",
+        "parent_id": "43",
+        "subbab": "struktur teks eksplanasi"
+    },
+    {
+        "hal": "375",
+        "id_c": "53",
+        "id_sb": "45",
+        "parent_id": "43",
+        "subbab": "contoh teks eksplanasi"
+    },
+    {
+        "hal": null,
+        "id_c": "53",
+        "id_sb": "46",
+        "parent_id": "0",
+        "subbab": "teks iklan"
+    },
+    {
+        "hal": "377",
+        "id_c": "53",
+        "id_sb": "47",
+        "parent_id": "46",
+        "subbab": "pengertian dan fungsi iklan"
+    },
+    {
+        "hal": "377",
+        "id_c": "53",
+        "id_sb": "48",
+        "parent_id": "46",
+        "subbab": "Ciri-ciri dan kebahasaan pada teks iklan"
+    },
+    {
+        "hal": "377",
+        "id_c": "53",
+        "id_sb": "49",
+        "parent_id": "46",
+        "subbab": "contoh teks iklan"
+    },
+    {
+        "hal": "378",
+        "id_c": "53",
+        "id_sb": "50",
+        "parent_id": "46",
+        "subbab": "cara membuat iklan"
+    },
+    {
+        "hal": "385",
+        "id_c": "54",
+        "id_sb": "51",
+        "parent_id": null,
+        "subbab": "pengertian teks narasi"
+    },
+    {
+        "hal": "385",
+        "id_c": "54",
+        "id_sb": "52",
+        "parent_id": null,
+        "subbab": "Ciri-ciri teks narasi"
+    },
+    {
+        "hal": "385",
+        "id_c": "54",
+        "id_sb": "53",
+        "parent_id": null,
+        "subbab": "struktur teks narasi"
+    },
+    {
+        "hal": "385",
+        "id_c": "54",
+        "id_sb": "54",
+        "parent_id": null,
+        "subbab": "contoh teks narasi"
+    },
+    {
+        "hal": null,
+        "id_c": "54",
+        "id_sb": "55",
+        "parent_id": "0",
+        "subbab": "pantun"
+    },
+    {
+        "hal": "387",
+        "id_c": "54",
+        "id_sb": "56",
+        "parent_id": "55",
+        "subbab": "pengertian pantun"
+    },
+    {
+        "hal": "387",
+        "id_c": "54",
+        "id_sb": "57",
+        "parent_id": "55",
+        "subbab": "Ciri-ciri pantun"
+    },
+    {
+        "hal": "387",
+        "id_c": "54",
+        "id_sb": "58",
+        "parent_id": "55",
+        "subbab": "Macam-macam pantun"
+    },
+    {
+        "hal": "388",
+        "id_c": "54",
+        "id_sb": "59",
+        "parent_id": "55",
+        "subbab": "cara menulis pantun"
+    },
+    {
+        "hal": "395",
+        "id_c": "55",
+        "id_sb": "60",
+        "parent_id": null,
+        "subbab": "pengertian teks nonfiksi"
+    },
+    {
+        "hal": "395",
+        "id_c": "55",
+        "id_sb": "61",
+        "parent_id": null,
+        "subbab": "Unsur-unsur teks nonfiksi"
+    },
+    {
+        "hal": "395",
+        "id_c": "55",
+        "id_sb": "62",
+        "parent_id": null,
+        "subbab": "contoh teks nonfiksi"
+    },
+    {
+        "hal": "396",
+        "id_c": "55",
+        "id_sb": "63",
+        "parent_id": null,
+        "subbab": "menulis teks nonfiksi"
+    },
+    {
+        "hal": "405",
+        "id_c": "56",
+        "id_sb": "64",
+        "parent_id": null,
+        "subbab": "pengertian surat"
+    },
+    {
+        "hal": "405",
+        "id_c": "56",
+        "id_sb": "65",
+        "parent_id": null,
+        "subbab": "Jenis-jenis surat"
+    },
+    {
+        "hal": "405",
+        "id_c": "56",
+        "id_sb": "66",
+        "parent_id": null,
+        "subbab": "contoh surat"
+    },
+    {
+        "hal": "591",
+        "id_c": "57",
+        "id_sb": "67",
+        "parent_id": null,
+        "subbab": "pengertian teks laporan"
+    },
+    {
+        "hal": "591",
+        "id_c": "57",
+        "id_sb": "68",
+        "parent_id": null,
+        "subbab": "hasil pengamatan atau observasi"
+    },
+    {
+        "hal": "591",
+        "id_c": "57",
+        "id_sb": "69",
+        "parent_id": null,
+        "subbab": "struktur teks laporan pengamatan"
+    },
+    {
+        "hal": "591",
+        "id_c": "57",
+        "id_sb": "70",
+        "parent_id": null,
+        "subbab": "Ciri-ciri teks laporan pengamatan"
+    },
+    {
+        "hal": "591",
+        "id_c": "57",
+        "id_sb": "71",
+        "parent_id": null,
+        "subbab": "langkah penyusunan teks hasil pengamatan"
+    },
+    {
+        "hal": "592",
+        "id_c": "57",
+        "id_sb": "72",
+        "parent_id": null,
+        "subbab": "contoh teks laporan hasil observasi"
+    },
+    {
+        "hal": "599",
+        "id_c": "58",
+        "id_sb": "73",
+        "parent_id": null,
+        "subbab": "pengertian teks penjelasan"
+    },
+    {
+        "hal": "599",
+        "id_c": "58",
+        "id_sb": "74",
+        "parent_id": null,
+        "subbab": "Bagian-bagian teks eksplanasi"
+    },
+    {
+        "hal": "599",
+        "id_c": "58",
+        "id_sb": "75",
+        "parent_id": null,
+        "subbab": "Ciri-ciri teks eksplanasi"
+    },
+    {
+        "hal": "599",
+        "id_c": "58",
+        "id_sb": "76",
+        "parent_id": null,
+        "subbab": "istilah dalam teks eksplanasi"
+    },
+    {
+        "hal": "600",
+        "id_c": "58",
+        "id_sb": "77",
+        "parent_id": null,
+        "subbab": "contoh teks eksplanasi"
+    },
+    {
+        "hal": "605",
+        "id_c": "59",
+        "id_sb": "78",
+        "parent_id": null,
+        "subbab": "pengertian teks pidato"
+    },
+    {
+        "hal": "605",
+        "id_c": "59",
+        "id_sb": "79",
+        "parent_id": null,
+        "subbab": "struktur teks pidato"
+    },
+    {
+        "hal": "606",
+        "id_c": "59",
+        "id_sb": "80",
+        "parent_id": null,
+        "subbab": "cara membaca pidato"
+    },
+    {
+        "hal": "606",
+        "id_c": "59",
+        "id_sb": "81",
+        "parent_id": null,
+        "subbab": "contoh teks pidato"
+    },
+    {
+        "hal": "613",
+        "id_c": "60",
+        "id_sb": "82",
+        "parent_id": null,
+        "subbab": "pengertian teks narasi sejarah"
+    },
+    {
+        "hal": "613",
+        "id_c": "60",
+        "id_sb": "83",
+        "parent_id": null,
+        "subbab": "contoh teks narasi sejarah"
+    },
+    {
+        "hal": "614",
+        "id_c": "60",
+        "id_sb": "84",
+        "parent_id": null,
+        "subbab": "unsur penerapan apa, dimana, kapan, siapa, mengapa dan bagaimana"
+    },
+    {
+        "hal": null,
+        "id_c": "61",
+        "id_sb": "85",
+        "parent_id": "0",
+        "subbab": "teks puisi"
+    },
+    {
+        "hal": "621",
+        "id_c": "61",
+        "id_sb": "86",
+        "parent_id": "85",
+        "subbab": "pengertian puisi"
+    },
+    {
+        "hal": "621",
+        "id_c": "61",
+        "id_sb": "87",
+        "parent_id": "85",
+        "subbab": "unsur-unsur dalam puisi"
+    },
+    {
+        "hal": "621",
+        "id_c": "61",
+        "id_sb": "88",
+        "parent_id": "85",
+        "subbab": "jenis puisi"
+    },
+    {
+        "hal": "621",
+        "id_c": "61",
+        "id_sb": "89",
+        "parent_id": "85",
+        "subbab": "cara membaca puisi"
+    },
+    {
+        "hal": "622",
+        "id_c": "61",
+        "id_sb": "90",
+        "parent_id": "85",
+        "subbab": "contoh puisi"
+    },
+    {
+        "hal": null,
+        "id_c": "61",
+        "id_sb": "91",
+        "parent_id": "0",
+        "subbab": "teks prosa"
+    },
+    {
+        "hal": "622",
+        "id_c": "61",
+        "id_sb": "92",
+        "parent_id": "91",
+        "subbab": "pengertian prosa"
+    },
+    {
+        "hal": "622",
+        "id_c": "61",
+        "id_sb": "93",
+        "parent_id": "91",
+        "subbab": "jenis prosa"
+    },
+    {
+        "hal": "623",
+        "id_c": "61",
+        "id_sb": "94",
+        "parent_id": "91",
+        "subbab": "contoh prosa"
+    },
+    {
+        "hal": "631",
+        "id_c": "62",
+        "id_sb": "95",
+        "parent_id": null,
+        "subbab": "pengertian teks formulir"
+    },
+    {
+        "hal": "631",
+        "id_c": "62",
+        "id_sb": "96",
+        "parent_id": null,
+        "subbab": "fungsi teks formulir"
+    },
+    {
+        "hal": "631",
+        "id_c": "62",
+        "id_sb": "97",
+        "parent_id": null,
+        "subbab": "tujuan dan manfaat teks formulir"
+    },
+    {
+        "hal": "631",
+        "id_c": "62",
+        "id_sb": "98",
+        "parent_id": null,
+        "subbab": "contoh teks formulir"
+    },
+    {
+        "hal": "637",
+        "id_c": "63",
+        "id_sb": "99",
+        "parent_id": null,
+        "subbab": "judul pada teks nonfiksi"
+    },
+    {
+        "hal": "637",
+        "id_c": "63",
+        "id_sb": "100",
+        "parent_id": null,
+        "subbab": "contoh teks cerita"
+    },
+    {
+        "hal": "638",
+        "id_c": "63",
+        "id_sb": "101",
+        "parent_id": null,
+        "subbab": "menggali informasi pada teks nonfiksi"
+    },
+    {
+        "hal": "645",
+        "id_c": "64",
+        "id_sb": "102",
+        "parent_id": null,
+        "subbab": "tutur dan tokoh teks fiksi"
+    },
+    {
+        "hal": "646",
+        "id_c": "64",
+        "id_sb": "103",
+        "parent_id": null,
+        "subbab": "peristiwa sebagai pengalaman pribadi"
+    },
+    {
+        "hal": "3",
+        "id_c": "65",
+        "id_sb": "104",
+        "parent_id": null,
+        "subbab": "pecahan senilai"
+    },
+    {
+        "hal": null,
+        "id_c": "65",
+        "id_sb": "105",
+        "parent_id": "0",
+        "subbab": "bentuk pecahan"
+    },
+    {
+        "hal": null,
+        "id_c": "65",
+        "id_sb": "106",
+        "parent_id": "0",
+        "subbab": "taksiran"
+    },
+    {
+        "hal": null,
+        "id_c": "65",
+        "id_sb": "107",
+        "parent_id": "0",
+        "subbab": "faktor dan kelipatan"
+    },
+    {
+        "hal": "11",
+        "id_c": "65",
+        "id_sb": "108",
+        "parent_id": null,
+        "subbab": "fpb dan kpk"
+    },
+    {
+        "hal": "14",
+        "id_c": "65",
+        "id_sb": "109",
+        "parent_id": null,
+        "subbab": "pengukuran"
+    },
+    {
+        "hal": "4",
+        "id_c": "65",
+        "id_sb": "110",
+        "parent_id": "105",
+        "subbab": "pecahan biasa"
+    },
+    {
+        "hal": "4",
+        "id_c": "65",
+        "id_sb": "111",
+        "parent_id": "105",
+        "subbab": "pecahan campuran"
+    },
+    {
+        "hal": "4",
+        "id_c": "65",
+        "id_sb": "112",
+        "parent_id": "105",
+        "subbab": "desimal"
+    },
+    {
+        "hal": "5",
+        "id_c": "65",
+        "id_sb": "113",
+        "parent_id": "105",
+        "subbab": "persen"
+    },
+    {
+        "hal": "7",
+        "id_c": "65",
+        "id_sb": "114",
+        "parent_id": "106",
+        "subbab": "atas"
+    },
+    {
+        "hal": "7",
+        "id_c": "65",
+        "id_sb": "115",
+        "parent_id": "106",
+        "subbab": "bawah"
+    },
+    {
+        "hal": "7",
+        "id_c": "65",
+        "id_sb": "116",
+        "parent_id": "106",
+        "subbab": "terbaik"
+    },
+    {
+        "hal": "9",
+        "id_c": "65",
+        "id_sb": "117",
+        "parent_id": "106",
+        "subbab": "pada pecahan"
+    },
+    {
+        "hal": "9",
+        "id_c": "65",
+        "id_sb": "118",
+        "parent_id": "107",
+        "subbab": "pohon faktor"
+    },
+    {
+        "hal": "10",
+        "id_c": "65",
+        "id_sb": "119",
+        "parent_id": "107",
+        "subbab": "tabel"
+    },
+    {
+        "hal": "10",
+        "id_c": "65",
+        "id_sb": "120",
+        "parent_id": "107",
+        "subbab": "kelipatan"
+    },
+    {
+        "hal": null,
+        "id_c": "66",
+        "id_sb": "121",
+        "parent_id": "0",
+        "subbab": "segi banyak"
+    },
+    {
+        "hal": null,
+        "id_c": "66",
+        "id_sb": "122",
+        "parent_id": "0",
+        "subbab": "bangun datar"
+    },
+    {
+        "hal": null,
+        "id_c": "66",
+        "id_sb": "123",
+        "parent_id": "0",
+        "subbab": "keliling dan luas"
+    },
+    {
+        "hal": null,
+        "id_c": "66",
+        "id_sb": "124",
+        "parent_id": "0",
+        "subbab": "hubungan antar garis"
+    },
+    {
+        "hal": null,
+        "id_c": "66",
+        "id_sb": "125",
+        "parent_id": "0",
+        "subbab": "pengukuran sudut"
+    },
+    {
+        "hal": "25",
+        "id_c": "66",
+        "id_sb": "126",
+        "parent_id": "121",
+        "subbab": "segi banyak beraturan"
+    },
+    {
+        "hal": "25",
+        "id_c": "66",
+        "id_sb": "127",
+        "parent_id": "121",
+        "subbab": "segi banyak tak beraturan"
+    },
+    {
+        "hal": "26",
+        "id_c": "66",
+        "id_sb": "128",
+        "parent_id": "122",
+        "subbab": "persegi"
+    },
+    {
+        "hal": "26",
+        "id_c": "66",
+        "id_sb": "129",
+        "parent_id": "122",
+        "subbab": "persegi panjang"
+    },
+    {
+        "hal": "26",
+        "id_c": "66",
+        "id_sb": "130",
+        "parent_id": "122",
+        "subbab": "segitiga"
+    },
+    {
+        "hal": "27",
+        "id_c": "66",
+        "id_sb": "131",
+        "parent_id": "123",
+        "subbab": "persegi"
+    },
+    {
+        "hal": "27",
+        "id_c": "66",
+        "id_sb": "132",
+        "parent_id": "123",
+        "subbab": "persegi panjang"
+    },
+    {
+        "hal": "28",
+        "id_c": "66",
+        "id_sb": "133",
+        "parent_id": "123",
+        "subbab": "segitiga"
+    },
+    {
+        "hal": "29",
+        "id_c": "66",
+        "id_sb": "134",
+        "parent_id": "124",
+        "subbab": "sejajar"
+    },
+    {
+        "hal": "29",
+        "id_c": "66",
+        "id_sb": "135",
+        "parent_id": "124",
+        "subbab": "berpotongan"
+    },
+    {
+        "hal": "30",
+        "id_c": "66",
+        "id_sb": "136",
+        "parent_id": "124",
+        "subbab": "berimpit"
+    },
+    {
+        "hal": "30",
+        "id_c": "66",
+        "id_sb": "137",
+        "parent_id": "124",
+        "subbab": "tegak lurus"
+    },
+    {
+        "hal": "30",
+        "id_c": "66",
+        "id_sb": "138",
+        "parent_id": "125",
+        "subbab": "Macam-macam sudut"
+    },
+    {
+        "hal": "31",
+        "id_c": "66",
+        "id_sb": "139",
+        "parent_id": "125",
+        "subbab": "busur"
+    },
+    {
+        "hal": "37",
+        "id_c": "67",
+        "id_sb": "140",
+        "parent_id": null,
+        "subbab": "pengumpulan data"
+    },
+    {
+        "hal": null,
+        "id_c": "67",
+        "id_sb": "141",
+        "parent_id": "0",
+        "subbab": "penyajian data"
+    },
+    {
+        "hal": "37",
+        "id_c": "67",
+        "id_sb": "142",
+        "parent_id": "141",
+        "subbab": "tabel"
+    },
+    {
+        "hal": "37",
+        "id_c": "67",
+        "id_sb": "143",
+        "parent_id": "141",
+        "subbab": "diagram"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "144",
+        "parent_id": "0",
+        "subbab": "perpangkatan"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "145",
+        "parent_id": "0",
+        "subbab": "pecahan"
+    },
+    {
+        "hal": "227",
+        "id_c": "68",
+        "id_sb": "146",
+        "parent_id": "144",
+        "subbab": "akar pangkat dua"
+    },
+    {
+        "hal": "227",
+        "id_c": "68",
+        "id_sb": "147",
+        "parent_id": "144",
+        "subbab": "akar pangkat tiga"
+    },
+    {
+        "hal": "228",
+        "id_c": "68",
+        "id_sb": "148",
+        "parent_id": "145",
+        "subbab": "penjumlahan"
+    },
+    {
+        "hal": "228",
+        "id_c": "68",
+        "id_sb": "149",
+        "parent_id": "145",
+        "subbab": "pengurangan"
+    },
+    {
+        "hal": "231",
+        "id_c": "68",
+        "id_sb": "150",
+        "parent_id": "145",
+        "subbab": "perkalian"
+    },
+    {
+        "hal": "231",
+        "id_c": "68",
+        "id_sb": "151",
+        "parent_id": "145",
+        "subbab": "pembagian"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "152",
+        "parent_id": "p1",
+        "subbab": "Penyebut beda"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "153",
+        "parent_id": "p1",
+        "subbab": "Pecahan biasa"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "154",
+        "parent_id": "p1",
+        "subbab": "Pecahan campuran"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "155",
+        "parent_id": "p1",
+        "subbab": "Desimal"
+    },
+    {
+        "hal": null,
+        "id_c": "68",
+        "id_sb": "156",
+        "parent_id": "p1",
+        "subbab": "Persen"
+    },
+    {
+        "hal": "244",
+        "id_c": "69",
+        "id_sb": "157",
+        "parent_id": null,
+        "subbab": "Arah mata angin"
+    },
+    {
+        "hal": null,
+        "id_c": "69",
+        "id_sb": "158",
+        "parent_id": "0",
+        "subbab": "Perbandingan"
+    },
+    {
+        "hal": "245",
+        "id_c": "69",
+        "id_sb": "159",
+        "parent_id": null,
+        "subbab": "denah dan skala"
+    },
+    {
+        "hal": "241",
+        "id_c": "69",
+        "id_sb": "160",
+        "parent_id": "158",
+        "subbab": "Debit"
+    },
+    {
+        "hal": "242",
+        "id_c": "69",
+        "id_sb": "161",
+        "parent_id": "158",
+        "subbab": "Jarak"
+    },
+    {
+        "hal": "242",
+        "id_c": "69",
+        "id_sb": "162",
+        "parent_id": "158",
+        "subbab": "Waktu"
+    },
+    {
+        "hal": "242",
+        "id_c": "69",
+        "id_sb": "163",
+        "parent_id": "158",
+        "subbab": "Kecepatan"
+    },
+    {
+        "hal": "253",
+        "id_c": "70",
+        "id_sb": "164",
+        "parent_id": null,
+        "subbab": "Volume kubus"
+    },
+    {
+        "hal": "253",
+        "id_c": "70",
+        "id_sb": "165",
+        "parent_id": null,
+        "subbab": "volume balok"
+    },
+    {
+        "hal": "254",
+        "id_c": "70",
+        "id_sb": "166",
+        "parent_id": null,
+        "subbab": "Jaring-jaring kubus"
+    },
+    {
+        "hal": "254",
+        "id_c": "70",
+        "id_sb": "167",
+        "parent_id": null,
+        "subbab": "jaring-jaring balok"
+    },
+    {
+        "hal": "261",
+        "id_c": "71",
+        "id_sb": "168",
+        "parent_id": null,
+        "subbab": "Penyajian Data"
+    },
+    {
+        "hal": null,
+        "id_c": "71",
+        "id_sb": "169",
+        "parent_id": "0",
+        "subbab": "Interpretasi Data"
+    },
+    {
+        "hal": "264",
+        "id_c": "71",
+        "id_sb": "170",
+        "parent_id": "169",
+        "subbab": "Pictogram"
+    },
+    {
+        "hal": "262",
+        "id_c": "71",
+        "id_sb": "171",
+        "parent_id": "169",
+        "subbab": "Tabel"
+    },
+    {
+        "hal": "262",
+        "id_c": "71",
+        "id_sb": "172",
+        "parent_id": "169",
+        "subbab": "Bentuk Daftar"
+    },
+    {
+        "hal": "263",
+        "id_c": "71",
+        "id_sb": "173",
+        "parent_id": "169",
+        "subbab": "Diagram Batang"
+    },
+    {
+        "hal": "264",
+        "id_c": "71",
+        "id_sb": "174",
+        "parent_id": "169",
+        "subbab": "Diagram Garis"
+    },
+    {
+        "hal": null,
+        "id_c": "72",
+        "id_sb": "175",
+        "parent_id": "0",
+        "subbab": "Bilangan Bulat Negatif"
+    },
+    {
+        "hal": null,
+        "id_c": "72",
+        "id_sb": "176",
+        "parent_id": "ob1",
+        "subbab": "Pengurangan"
+    },
+    {
+        "hal": null,
+        "id_c": "72",
+        "id_sb": "177",
+        "parent_id": "ob1",
+        "subbab": "Perkalian"
+    },
+    {
+        "hal": null,
+        "id_c": "72",
+        "id_sb": "178",
+        "parent_id": "ob1",
+        "subbab": "Pembagian"
+    },
+    {
+        "hal": null,
+        "id_c": "72",
+        "id_sb": "179",
+        "parent_id": "ob1",
+        "subbab": "Penjumlahan"
+    },
+    {
+        "hal": "462",
+        "id_c": "72",
+        "id_sb": "180",
+        "parent_id": "0",
+        "subbab": "Operasi Hitung campuran"
+    },
+    {
+        "hal": "460",
+        "id_c": "72",
+        "id_sb": "181",
+        "parent_id": "0",
+        "subbab": "Operasi Pada Bilangan bulat negatif"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "182",
+        "parent_id": "184",
+        "subbab": "Titik pusat"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "183",
+        "parent_id": "184",
+        "subbab": "jari-jari"
+    },
+    {
+        "hal": null,
+        "id_c": "73",
+        "id_sb": "184",
+        "parent_id": "0",
+        "subbab": "Unsur-unsur lingkaran"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "185",
+        "parent_id": "184",
+        "subbab": "Busur"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "186",
+        "parent_id": "184",
+        "subbab": "Tali busur"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "187",
+        "parent_id": "184",
+        "subbab": "Tembereng"
+    },
+    {
+        "hal": null,
+        "id_c": "73",
+        "id_sb": "188",
+        "parent_id": "0",
+        "subbab": "keliling dan luas lingkaran"
+    },
+    {
+        "hal": "469",
+        "id_c": "73",
+        "id_sb": "189",
+        "parent_id": "184",
+        "subbab": "Juring"
+    },
+    {
+        "hal": null,
+        "id_c": "73",
+        "id_sb": "190",
+        "parent_id": "0",
+        "subbab": "Diagonal bidang dan diagonal ruang Kubus"
+    },
+    {
+        "hal": "471",
+        "id_c": "73",
+        "id_sb": "191",
+        "parent_id": "190",
+        "subbab": "Balok"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "192",
+        "parent_id": "196",
+        "subbab": "Prisma segi empat"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "193",
+        "parent_id": "196",
+        "subbab": "Prisma segitiga"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "194",
+        "parent_id": "196",
+        "subbab": "Tabung"
+    },
+    {
+        "hal": null,
+        "id_c": "73",
+        "id_sb": "195",
+        "parent_id": "0",
+        "subbab": "Bagun Ruang"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "196",
+        "parent_id": "196",
+        "subbab": "Limas segi empat"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "197",
+        "parent_id": "196",
+        "subbab": "Limas segitiga"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "198",
+        "parent_id": "196",
+        "subbab": "Kerucut"
+    },
+    {
+        "hal": null,
+        "id_c": "73",
+        "id_sb": "199",
+        "parent_id": "0",
+        "subbab": "Gabungan daribangun datar dan bangun ruang"
+    },
+    {
+        "hal": "473",
+        "id_c": "73",
+        "id_sb": "200",
+        "parent_id": "196",
+        "subbab": "Bola"
+    },
+    {
+        "hal": "471",
+        "id_c": "73",
+        "id_sb": "201",
+        "parent_id": "190",
+        "subbab": "kubus"
+    },
+    {
+        "hal": null,
+        "id_c": "74",
+        "id_sb": "202",
+        "parent_id": "0",
+        "subbab": "ukuran Pemusatan Data Tunggal"
+    },
+    {
+        "hal": "487",
+        "id_c": "74",
+        "id_sb": "203",
+        "parent_id": "202",
+        "subbab": "Mean"
+    },
+    {
+        "hal": "487",
+        "id_c": "74",
+        "id_sb": "204",
+        "parent_id": "202",
+        "subbab": "Median"
+    },
+    {
+        "hal": "487",
+        "id_c": "74",
+        "id_sb": "205",
+        "parent_id": "202",
+        "subbab": "Modus"
+    }
+]
