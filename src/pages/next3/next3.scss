@@ -83,20 +83,7 @@ page-next3 {
         height: 85px;
         width: 50%;
         padding: 10px;
-        margin-left: 20px
-    }
-
-    .box-con {
-        width: 100%;
-        background: #00A868;
-        color: #fff;
-        font-weight: bold;
-        border: 4px solid #fff;
-        padding: 2px;
-        z-index: 99;
-        height: 100%;
-        font-size: 1.5rem;
-        margin-left: 10px;
+        margin-left: 20px;
 
         &::before {
             content: "";
@@ -110,8 +97,21 @@ page-next3 {
             bottom: 0;
             margin-bottom: auto;
             margin-top: auto;
-            z-index: -10;
+            z-index: -1;
         }
+    }
+
+    .box-con {
+        width: 100%;
+        background: #00A868;
+        color: #fff;
+        font-weight: bold;
+        border: 4px solid #fff;
+        padding: 2px;
+        z-index: 99;
+        height: 100%;
+        font-size: 1.5rem;
+        margin-left: 10px;
     }
 
     .left {
@@ -119,7 +119,7 @@ page-next3 {
     }
 
     //keyframe
-    @keyframes verticalDraw {
+    @keyframes faded {
         0% {
             opacity: 0;
         }

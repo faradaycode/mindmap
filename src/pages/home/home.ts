@@ -1,7 +1,8 @@
+import { NativePageTransitions } from '@ionic-native/native-page-transitions';
 import { Component } from '@angular/core';
 import { NavController, IonicPage, ModalController } from 'ionic-angular';
 import { FungsiProvider } from '../../providers/fungsi/fungsi';
-import { trigger, style, transition, animate, keyframes, query, stagger } from '@angular/animations';
+import { trigger, state, style, transition, animate, keyframes, query, stagger } from '@angular/animations';
 
 @IonicPage()
 @Component({
@@ -34,16 +35,38 @@ export class HomePage {
   imgL = "assets/imgs/";
   fallen1 = "";
   fallen2 = "";
+  goaway = "";
+  setID;
 
-  constructor(public navCtrl: NavController, private serv: FungsiProvider, private modals: ModalController) {
+  constructor(public navCtrl: NavController, private serv: FungsiProvider, private modals: ModalController,
+  private transit: NativePageTransitions) {
 
   }
 
-  openModal(id) {
-    let modal = this.modals.create("ModklsPage", {
-      ID: id
+  ionViewDidLeave(){
+    let a1 = document.getElementById("conUp");
+    let a2 = document.getElementById("conKls");
+
+    a1.classList.remove("slideup");
+    a2.classList.remove("showup");
+  }
+
+  openKls(id) {
+    let a1 = document.getElementById("conUp");
+    let a2 = document.getElementById("conKls");
+    
+    a1.classList.add("slideup");
+    a2.classList.add("showup");
+
+    this.setID = id;
+  }
+
+  goto(kelas) {
+    this.transit.slide(this.serv.opt_slide);
+    this.navCtrl.push("Next2Page",{
+      ID: this.setID,
+      kls: kelas
     });
-    modal.present();
   }
 
   ngOnInit() {
@@ -54,4 +77,5 @@ export class HomePage {
       this.datas = data;
     });
   }
+  
 }

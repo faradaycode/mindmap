@@ -52,6 +52,8 @@ export class Next2Page {
   kelas;
   animating = "";
   head_anim = "";
+  _MAX: number;
+  _MAPEL;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private transit: NativePageTransitions,
     private serv: FungsiProvider) {
@@ -80,6 +82,7 @@ export class Next2Page {
         if (data[i].id_m === this.id_parent) {
           if (data[i].kls === this.kelas) {
             this.datas.push(data[i]);
+            this._MAX = this.datas.length;
           }
         }
       }

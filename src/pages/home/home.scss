@@ -1,4 +1,12 @@
 page-home {
+    ion-content {
+        transition: all 1s ease-in;
+    }
+
+    .grid, .row {
+        height: 80px;
+    }
+
     .button-md {
         width: 90px;
         border-radius: 100%;
@@ -15,7 +23,7 @@ page-home {
         flex-direction: row;
         margin-left: auto;
         margin-right: auto;
-        
+
         .app-img {
             margin: 0 5px;
         }
@@ -44,12 +52,38 @@ page-home {
             right: 0;
         }
     }
-    .frame-div {
+    .big {
         height: 130px;
+    }
+    .mini {
+        height: 60px;
+        padding: 3px;
+    }
+    .red {
+        background-color: #ff0000 !important;
+    }
+    .yellow {
+        background-color: #ffff00 !important;
+        color: #000;
     }
     .frame-text {
         padding-top: 10px;
         font-size: bold;
+    }
+
+    #conKls {
+        top: -100%;
+        opacity: 0;
+    }
+
+    .showup{
+        top: 0 !important;
+        opacity: 1 !important;
+        transition-delay: 1s;
+    }
+
+    .slideup {
+        top: -100%;
     }
 
     @keyframes dropShadow {
@@ -60,6 +94,15 @@ page-home {
             opacity: 0.5;
         }
         100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
             opacity: 1;
         }
     }

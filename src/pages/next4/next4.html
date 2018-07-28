@@ -5,7 +5,7 @@
   Ionic pages and navigation.
 -->
 
-<ion-content padding style="margin-top: 8px">
+<ion-content padding>
   <div class="container">
     <!-- <button ion-button small color="danger" class="abs top left" (click)="back()">
       <ion-icon name="arrow-back"></ion-icon>
@@ -17,6 +17,7 @@
       <div class="content-a">
         <div class="left-line"></div>
         <div class="list-con" *ngFor="let item of datas; let x = index" [@flyInOut]="animating">
+          <div class="timeline-circle" text-center></div>
           <div text-capitalize class="green-box" (click)="itemClk(item.hal)">
             <span>{{item.subbab}}</span>
           </div>
