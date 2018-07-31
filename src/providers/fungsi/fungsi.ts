@@ -46,7 +46,7 @@ export class FungsiProvider {
   //alert
   callAlert(messages) {
     let al = this.alr.create({
-      title: 'Hello',
+      title: 'Hi...',
       subTitle: messages,
       buttons: ['Okay']
     });

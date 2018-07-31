@@ -65,13 +65,6 @@ export class Next4Page {
     console.log('ionViewDidLoad next4Page');
   }
 
-  ionViewWillLeave() {
-    let options: NativeTransitionOptions = {
-      direction: 'down'
-    };
-
-    this.transit.slide(options);
-  }
 
   ngOnInit() {
     this.animating = "anim-a";
@@ -86,9 +79,10 @@ export class Next4Page {
     });
   }
 
-  itemClk(hal) {
+  itemClk(hal, parentName) {
     if (hal !== null) {
-      this.serv.callAlert(hal);
+      let msg = "<div text-capitalize>untuk materi "+parentName+" bisa dilihat di halaman "+hal+"</div>";
+      this.serv.callAlert(msg);
     } else {
       this.serv.callToast("NEXT");
     }

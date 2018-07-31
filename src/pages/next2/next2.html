@@ -10,17 +10,13 @@
     <!-- <button ion-button small color="danger" class="abs top left" (click)="back()">
       <ion-icon name="arrow-back"></ion-icon>
     </button> -->
-    <div class="mapel-name">
-      <ion-icon name="arrow-back"></ion-icon>
-      <span></span>
-    </div>
     <div class="list-wrapper" [@flyInOut]="head_anim">
       <div class="timeline-header" text-uppercase text-center>
         <span>pembelajaran</span>
       </div>
       <div margin-top></div>
       <div class="list-con" *ngFor="let item of datas; let x = index; let las = last" [@flyInOut]="animating">
-        <div class="conference-center-line" *ngIf="!las" ></div>
+        <div class="conference-center-line" *ngIf="!las"></div>
 
         <div class="timeline-circle" text-center>
           <span>{{x+1}}</span>

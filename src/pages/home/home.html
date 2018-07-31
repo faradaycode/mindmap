@@ -1,6 +1,6 @@
 <ion-content padding id="conUp">
   <div class="container">
-    <div class="wrapper" [@flyInOut]="fallen1">
+    <div class="upper " [@flyInOut]="fallen1">
       <div class="app-info">
         <div class="app-img">
           <img class="img-responsive" src="assets/imgs/agenda.png" />
@@ -13,20 +13,22 @@
       </div>
     </div>
 
-    <ion-grid [@flyInOut]="fallen2">
-      <ion-row text-center>
-        <ion-col *ngFor="let item of datas">
-          <div text-wrap class="frame-div big" (click)="openKls(item.id_m)">
-            <img class="img-responsive" src="assets/imgs/{{item.mapel}}.png" />
+    <div class="bottomer">
+      <ion-grid [@flyInOut]="fallen2">
+        <ion-row text-center>
+          <ion-col *ngFor="let item of datas">
+            <div text-wrap class="frame-div bubble-blockquote" (click)="openKls(item.id_m)">
+              <img class="img-responsive" src="assets/imgs/{{item.mapel}}.png" />
+            </div>
             <div class="frame-text" text-capitalize>
               <span class="btn-txt" *ngIf="item.mapel === 'bindo'">bahasa indonesia</span>
               <span class="btn-txt" *ngIf="item.mapel === 'mtk'">matematika</span>
               <span text-uppercase class="btn-txt" *ngIf="item.mapel !== 'bindo' && item.mapel !== 'mtk'">{{item.mapel}}</span>
             </div>
-          </div>
-        </ion-col>
-      </ion-row>
-    </ion-grid>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </div>
   </div>
 </ion-content>
 
@@ -34,20 +36,20 @@
   <div class="container">
     <ion-grid>
       <ion-row>
-        <ion-col>
-          <div class="frame-div mini" (click)="goto(4)">
+        <ion-col text-center>
+          <div class="frame-div shapper" (click)="goto(4)">
             <span class="frame-title">kelas</span>
             <span class="frame-subtitle">4</span>
           </div>
         </ion-col>
         <ion-col>
-          <div class="frame-div mini yellow" (click)="goto(5)">
+          <div class="frame-div shapper yellow" (click)="goto(5)">
             <span class="frame-title">kelas</span>
             <span class="frame-subtitle">5</span>
           </div>
         </ion-col>
         <ion-col>
-          <div class="frame-div mini red" (click)="goto(6)">
+          <div class="frame-div shapper red" (click)="goto(6)">
             <span class="frame-title">kelas</span>
             <span class="frame-subtitle">6</span>
           </div>

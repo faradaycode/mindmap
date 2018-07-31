@@ -4,7 +4,7 @@ page-next3 {
         position: absolute;
         width: 3px;
         top: 0;
-        left: 0;
+        left: 20px;
         background: #fff;
         animation: lineLeft 1s forwards;
         z-index: -1;
@@ -31,31 +31,19 @@ page-next3 {
 
     .timeline-circle {
         position: absolute;
-        content: "";
         height: 30px;
         width: 30px;
         padding: 5px;
-        background-color: #fff;
-        border: 3px solid #00A868;
+        background-color: #00A868;
+        border: 3px solid #fff;
         border-radius: 100%;
-        left: 14%;
-        margin-left: auto;
+        left: 6px;
+        top: 0;
+        bottom: 0;
+        margin-top: auto;
+        margin-bottom: auto;
+        color: #fff;
         animation: verticalDraw 1s ease-in-out;
-
-        &::after {
-            content: "";
-            position: absolute;
-            bottom: 25px;
-            left: 0;
-            right: 0;
-            margin-left: auto;
-            margin-right: auto;
-            width: 5px;
-            background-color: #00A868;
-            // height: 40px;
-            z-index: -10;
-            animation: lineDraw 1.2s forwards;
-        }
     }
 
     .timeline-footer {
@@ -83,25 +71,10 @@ page-next3 {
         height: 85px;
         width: 50%;
         padding: 10px;
-        margin-left: 20px;
-
-        &::before {
-            content: "";
-            position: absolute;
-            width: 8%;
-            height: 3px;
-            display: inline-block;
-            background-color: #fff;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            margin-bottom: auto;
-            margin-top: auto;
-            z-index: -1;
-        }
     }
 
     .box-con {
+        position: absolute;
         width: 100%;
         background: #00A868;
         color: #fff;
@@ -109,13 +82,25 @@ page-next3 {
         border: 4px solid #fff;
         padding: 2px;
         z-index: 99;
-        height: 100%;
+        height: 70px;
         font-size: 1.5rem;
-        margin-left: 10px;
+
+        &::before {
+            position: absolute;
+            content: "";
+            width: 15px;
+            height: 3px;
+            background-color: #fff;
+            left: -15px;
+            top: 0;
+            bottom: 0;
+            margin-bottom: auto;
+            margin-top: auto;
+        }
     }
 
     .left {
-        left: 25px;
+        left: 45px;
     }
 
     //keyframe

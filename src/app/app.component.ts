@@ -16,7 +16,7 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
 
       // this.orin.lock(this.orin.ORIENTATIONS.LANDSCAPE);
-      statusBar.styleDefault();
+      statusBar.hide();
       splashScreen.hide();
     });
   }

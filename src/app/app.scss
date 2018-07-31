@@ -15,8 +15,12 @@
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
 
-ion-content {
+ .ion-page {
     background: linear-gradient(left, rgba(233,223,196,1) 0%,rgba(233,223,196,1) 1%,rgba(237,227,200,1) 2%,rgba(237,227,200,1) 24%,rgba(235,221,195,1) 25%,rgba(233,223,196,1) 48%,rgba(235,221,195,1) 49%,rgba(230,216,189,1) 52%,rgba(230,216,189,1) 53%,rgba(233,219,192,1) 54%,rgba(230,216,189,1) 55%,rgba(230,216,189,1) 56%,rgba(233,219,192,1) 57%,rgba(230,216,189,1) 58%,rgba(230,216,189,1) 73%,rgba(233,219,192,1) 74%,rgba(233,219,192,1) 98%,rgba(235,221,195,1) 100%) !important;
+}
+
+ion-content {
+    background-color: transparent !important;
 }
 
 .container {
@@ -25,17 +29,17 @@ ion-content {
     height: 100%;
 }
 
-// .grid, .row {
-//     height: 100%;
-//     width: 100%;
-// }
+.grid, .row {
+    height: 100%;
+    width: 100%;
+}
 
 .frame-div {
     position: relative;
     width: 100%;
     background-color: #6aa87b;
     color: #fff;
-    padding: 10px 5px 0 5px;
+    padding: 10px 0;
     text-align: center;
 
     .frame-title {
@@ -77,5 +81,9 @@ ion-content {
 .button {
     box-shadow: none;
     border: none;
+}
+
+.capitalize {
+    text-transform: capitalize;
 }
 

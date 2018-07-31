@@ -18,7 +18,7 @@
         <div class="left-line"></div>
         <div class="list-con" *ngFor="let item of datas; let x = index" [@flyInOut]="animating">
           <div class="timeline-circle" text-center></div>
-          <div text-capitalize class="green-box" (click)="itemClk(item.hal)">
+          <div text-capitalize class="green-box" (click)="itemClk(item.hal, item.subbab)">
             <span>{{item.subbab}}</span>
           </div>
         </div>

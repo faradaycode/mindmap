@@ -13,6 +13,20 @@ page-next2 {
         padding: 5px;
         font-weight: bold;
         z-index: 2;
+
+        &::after {
+            position: absolute;
+            width: 3px;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin-left: auto;
+            margin-right: auto;
+            background: #00A868;
+            z-index: -1;
+            height: 100%;
+        }
     }
 
     .timeline-circle {
@@ -82,6 +96,23 @@ page-next2 {
         z-index: 2;
         height: 100%;
         font-size: 1.4rem;
+    }
+
+    .mapel-name {
+        background-color: #00a868;
+        color: #fff;
+        font-weight: bold;
+        display: flex;
+
+        .aleft,
+        .aright {
+            padding: 5px;
+        }
+
+        .aleft {
+            background-color: #fff;
+            color: #00A868;
+        }
     }
 
     .left {

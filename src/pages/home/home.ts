@@ -1,4 +1,4 @@
-import { NativePageTransitions } from '@ionic-native/native-page-transitions';
+import { NativePageTransitions, NativeTransitionOptions } from '@ionic-native/native-page-transitions';
 import { Component } from '@angular/core';
 import { NavController, IonicPage, ModalController } from 'ionic-angular';
 import { FungsiProvider } from '../../providers/fungsi/fungsi';
@@ -62,7 +62,11 @@ export class HomePage {
   }
 
   goto(kelas) {
-    this.transit.slide(this.serv.opt_slide);
+    let options: NativeTransitionOptions = {
+      direction: 'up'
+    };
+    
+    this.transit.flip(options);
     this.navCtrl.push("Next2Page",{
       ID: this.setID,
       kls: kelas

@@ -15,8 +15,11 @@
         <span>materi:</span>
         <span>{{bab_name}}</span>
       </div>
-      <div class="list-con" *ngFor="let item of datas; let x = index" [@flyInOut]="animating">
+      <div class="list-con" *ngFor="let item of datas; let las = last" [@flyInOut]="animating">
       <div class="left-line"></div>
+      <div class="timeline-circle" text-center>
+        <ion-icon name="arrow-dropright"></ion-icon>
+      </div>
         <div text-capitalize class="box-con left" (click)="itemClk(item.hal,item.id_sb, item.subbab)">
           <span>{{item.subbab}}</span>
         </div>

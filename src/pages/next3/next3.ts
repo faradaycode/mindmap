@@ -65,14 +65,6 @@ export class Next3Page {
     console.log('ionViewDidLoad next3Page');
   }
 
-  ionViewWillLeave() {
-    let options: NativeTransitionOptions = {
-      direction: 'down'
-    };
-
-    this.transit.slide(options);
-  }
-
   ngOnInit() {
     this.animating = "anim-a";
     this.head_anim = "anim-b";
@@ -90,7 +82,8 @@ export class Next3Page {
 
   itemClk(hal, id, parentName) {
     if(hal !== null) {
-      this.serv.callAlert(hal);
+      let msg = "<div class='capitalize'>untuk materi "+parentName+" bisa dilihat di halaman "+hal+"</div>";
+      this.serv.callAlert(msg);
     } else {
       this.navCtrl.push("Next4Page",{
         ID: id,

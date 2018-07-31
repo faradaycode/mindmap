@@ -65,14 +65,6 @@ export class Next2Page {
     console.log('ionViewDidLoad Next2Page');
   }
 
-  ionViewWillLeave() {
-    let options: NativeTransitionOptions = {
-      direction: 'down'
-    };
-
-    this.transit.slide(options);
-  }
-
   ngOnInit() {
     this.animating = "anim-a";
     this.head_anim = "anim-b";
@@ -89,8 +81,14 @@ export class Next2Page {
     });
   }
 
-  itemClk(id, name:String = null) {
-    this.navCtrl.push("Next3Page",{
+  itemClk(id, name: String = null) {
+    let options: NativeTransitionOptions = {
+      direction: 'left'
+    };
+
+    this.transit.slide(options);
+
+    this.navCtrl.push("Next3Page", {
       ID: id,
       NAME: name
     });
