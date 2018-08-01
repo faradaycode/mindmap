@@ -81,10 +81,22 @@ export class Next2Page {
     });
   }
 
-  itemClk(id, name: String = null) {
+  itemClk(id, name: String = null, separator: number) {
+    let drt;
+    
+    if(separator === 0) {
+      drt = 'left';
+    }
+
+    if(separator === 1) {
+      drt = 'right';
+    }
+
     let options: NativeTransitionOptions = {
-      direction: 'left'
+      direction: drt
     };
+
+    console.log(separator);
 
     this.transit.slide(options);
 

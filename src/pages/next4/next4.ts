@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { NativeTransitionOptions, NativePageTransitions } from '@ionic-native/native-page-transitions';
 import { FungsiProvider } from '../../providers/fungsi/fungsi';
-import { trigger, style, transition, animate, keyframes, query, stagger } from '@angular/animations';
+import { trigger, style, transition, animate, keyframes, query, stagger, state } from '@angular/animations';
 
 
 /**
@@ -42,7 +42,25 @@ import { trigger, style, transition, animate, keyframes, query, stagger } from '
             style({ opacity: 1, transform: 'translate3d(0, 0, 0)', offset: 1.0 }),
           ]))]), { optional: true })
       ])
-    ])
+    ]),
+
+    trigger('flyin', [
+      state('default', style({
+        opacity: 1,
+        transform: 'translate3d(0, 0, 0)'
+      })),
+      state('right', style({
+        opacity: 0,
+        transform: 'translate3d(250%, 0, 0)'
+      })),
+      state('left', style({
+        opacity: 0,
+        transform: 'translate3d(-250%, 0, 0)'
+      })),
+      transition('right => default', animate('800ms ease-out')),
+      transition('left => default', animate('800ms ease-out'))
+    ]),
+
   ]
 })
 export class Next4Page {
@@ -53,6 +71,7 @@ export class Next4Page {
   animating = "";
   head_anim = "";
   parentName;
+  direct = 'left';
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private transit: NativePageTransitions,
     private serv: FungsiProvider) {
@@ -69,6 +88,10 @@ export class Next4Page {
   ngOnInit() {
     this.animating = "anim-a";
     this.head_anim = "anim-b";
+
+    setTimeout(() => {
+      this.direct = (this.direct === 'left') ? 'default':'left';
+    }, 800);
 
     this.serv.jsonCall("assets/subbab.json").subscribe(data => {
       for (let i in data) {

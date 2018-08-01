@@ -87,3 +87,17 @@ ion-content {
     text-transform: capitalize;
 }
 
+//timeline
+.timeline-circle {
+    content: "";
+    height: 40px;
+    width: 40px;
+    padding: 4px;
+    background-color: #00A868;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    animation: verticalDraw 1s ease-in-out;
+}

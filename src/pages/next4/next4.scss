@@ -14,16 +14,10 @@ page-next4 {
     }
 
     .timeline-circle {
-        position: absolute;
-        content: "";
-        height: 30px;
-        width: 30px;
-        padding: 5px;
-        background-color: #00A868;
-        border: 3px solid #fff;
-        border-radius: 100%;
-        left: 0;
-        animation: verticalDraw 1s ease-in-out;
+        margin-top: auto;
+        margin-bottom: auto;
+        top: 0;
+        bottom: 0;
     }
 
     .timeline-footer {
@@ -36,22 +30,6 @@ page-next4 {
         padding: 5px;
         border: 2px solid #00A868;
         bottom: 0;
-    }
-
-    .circle-center-line {
-        position: absolute;
-        width: 20px;
-        height: 20px;
-        border-radius: 100%;
-        border: 3px solid #fff;
-        top: 30%;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        margin-left: auto;
-        margin-right: auto;
-        background: #00A868;
-        z-index: 9;
     }
 
     .content-a {
@@ -71,16 +49,16 @@ page-next4 {
     .list-con {
         position: relative;
         display: block;
-        min-height: 30px;
+        min-height: 50px;
         width: 100%;
         margin: 16px 0;
     }
 
     .left-line {
         position: absolute;
-        width: 3px;
+        width: 5px;
         top: 0;
-        left: 13px;
+        left: 17px;
         background: #fff;
         animation: lineLeft 1s forwards;
         z-index: -1;
@@ -97,7 +75,12 @@ page-next4 {
         min-height: 25px;
         font-weight: bold;
         max-width: 50%;
-        left: 40px;
+        left: 50px;
+        top: 0;
+        bottom: 0;
+        margin-bottom: auto;
+        margin-top: auto;
+        animation: faded 800ms ease-in;
 
         &::after {
             position: absolute;
@@ -116,16 +99,6 @@ page-next4 {
 
     .left {
         left: 0;
-
-        &::after {
-            position: absolute;
-            font-size: 25px;
-            font-family: "FontAwesome";
-            color: #fff;
-            right: -12px;
-            top: 0;
-            content: "\f0da";
-        }
     }
 
     .right {
@@ -151,13 +124,4 @@ page-next4 {
             opacity: 1;
         }
     }
-    @keyframes lineDraw {
-        0% {
-            height: 0;
-        }
-        100% {
-            height: 40px;
-        }
-    }
-
 }

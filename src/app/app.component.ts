@@ -15,7 +15,7 @@ export class MyApp {
       // Okay, so the platform is ready and our plugins are available.
       // Here you can do any higher level native things you might need.
 
-      // this.orin.lock(this.orin.ORIENTATIONS.LANDSCAPE);
+      this.orin.lock(this.orin.ORIENTATIONS.LANDSCAPE);
       statusBar.hide();
       splashScreen.hide();
     });

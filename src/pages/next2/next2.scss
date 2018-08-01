@@ -29,22 +29,6 @@ page-next2 {
         }
     }
 
-    .timeline-circle {
-        position: absolute;
-        content: "";
-        height: 30px;
-        width: 30px;
-        padding: 5px;
-        background-color: #fff;
-        border: 3px solid #00A868;
-        border-radius: 100%;
-        right: 0;
-        left: 0;
-        margin-left: auto;
-        margin-right: auto;
-        animation: verticalDraw 1s ease-in-out;
-    }
-
     .timeline-footer {
         position: relative;
         display: block;
@@ -55,6 +39,13 @@ page-next2 {
         background-color: #eee;
         padding: 5px;
         border: 2px solid #00A868;
+    }
+
+    .timeline-circle {
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .conference-center-line {
@@ -141,6 +132,14 @@ page-next2 {
             top: 0;
             content: "\f0d9";
         }
+    }
+
+    .pl {
+        left: 5px;
+    }
+
+    .pr {
+        right: 5px;
     }
 
     //keyframe

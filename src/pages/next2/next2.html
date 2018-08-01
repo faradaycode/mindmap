@@ -18,11 +18,14 @@
       <div class="list-con" *ngFor="let item of datas; let x = index; let las = last" [@flyInOut]="animating">
         <div class="conference-center-line" *ngIf="!las"></div>
 
-        <div class="timeline-circle" text-center>
+        <div class="timeline-circle abs" text-center>
           <span>{{x+1}}</span>
         </div>
-        <div text-capitalize class="box-con" [ngClass]="x%2==1?'left':'right'" (click)="itemClk(item.id_c, item.root_title)">
+        <div text-capitalize class="box-con" [ngClass]="x%2==1?'left':'right'" (click)="itemClk(item.id_c, item.root_title, x%2)">
           <span>{{item.root_title}}</span>
+          <span class="abs bottom" [ngClass]="x%2==1?'pl':'pr'">
+            <i [ngClass]="x%2==1?'fa fa-2x fa-arrow-circle-left':'fa fa-2x fa-arrow-circle-right'"></i>
+          </span>
         </div>
       </div>
     </div>
